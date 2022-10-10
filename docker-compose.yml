@@ -1,0 +1,28 @@
+version: '3.5'
+
+services:
+  api:
+    build:
+      context: .
+      target: base
+    env_file:
+      - .env
+    environment:
+      - TYPEORM_HOST=db
+    command: tail -f /dev/null
+    ports:
+      - '3000:3000' # open port for server api
+      - '9229:9229' # open port for inspector to debug
+    volumes:
+      - .:/app/
+      - /app/node_modules
+    depends_on:
+      - "db"
+  db:
+    image: postgres:11.0
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password 
+      - POSTGRES_DB=database
