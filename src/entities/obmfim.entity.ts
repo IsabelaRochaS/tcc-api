@@ -49,7 +49,7 @@ export class OBMFim {
   @Column("real", { name: "coordY", nullable: true })
   public coordY!: number;
 
-  @Column("boolean", { name: "estaAtivo", default: false })
+  @Column("boolean", { name: "estaAtivo", default: true })
   public estaAtivo!: boolean;
 
   @Column("varchar", { name: "obmmeio_id" })

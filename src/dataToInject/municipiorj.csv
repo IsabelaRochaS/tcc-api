@@ -1,4 +1,4 @@
-UF,Nome_UF,Região Geográfica Intermediária,Nome Região Geográfica Intermediária,Região Geográfica Imediata,Nome Região Geográfica Imediata,Mesorregião Geográfica,Nome_Mesorregiao,Microrregião Geográfica,Nome_Microrregião,Município,Código Município Completo,Nome_Municipio
+UF,Nome_UF,Região Geográfica Intermediária,Nome Região Geográfica Intermediária,Região Geográfica Imediata,Nome Região Geográfica Imediata,Mesorregião Geográfica,Nome_Mesorregiao,Microrregião Geográfica,Nome_Microrregião,Município,codIBGE,Nome_Municipio
 33,Rio de Janeiro,3301,Rio de Janeiro,330002,Angra dos Reis,05,Sul Fluminense,013,Baía da Ilha Grande,00100,3300100,Angra dos Reis
 33,Rio de Janeiro,3304,Campos dos Goytacazes,330012,Santo Antônio de Pádua,01,Noroeste Fluminense,002,Santo Antônio de Pádua,00159,3300159,Aperibé
 33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330013,Cabo Frio,04,Baixadas,010,Lagos,00209,3300209,Araruama

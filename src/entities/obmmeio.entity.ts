@@ -48,7 +48,7 @@ export class OBMMeio {
   @Column("real", { name: "coordY" })
   public coordY!: number;
 
-  @Column("boolean", { name: "estaAtivo", default: false, nullable: true })
+  @Column("boolean", { name: "estaAtivo", default: true, nullable: true })
   public estaAtivo!: boolean;
 
   @Column({

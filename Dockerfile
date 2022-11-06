@@ -1,12 +1,18 @@
 FROM node:16.16.0-alpine3.16
 
-WORKDIR /app
 
-COPY package*.json ./
-COPY .npmrc ./
-RUN npm ci
-RUN rm .npmrc
+# sets the working directory for any RUN, CMD, COPY command
+# all files we put in the Docker container running the server will be in /usr/src/app (e.g. /usr/src/app/package.json)
+WORKDIR /usr/src/app
 
-COPY . .
+# Copies package.json, package-lock.json, tsconfig.json, .env to the root of WORKDIR
+COPY ["package.json", "package-lock.json", "tsconfig.json", ".env", "./"]
 
-CMD node ./dist/main.js
+# Copies everything in the src directory to WORKDIR/src
+COPY ./src ./src
+
+# Installs all packages
+RUN npm install --force
+
+# Runs the dev npm script to build & start the server
+CMD npm run dev
