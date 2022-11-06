@@ -1,9 +1,9 @@
 import { NestFactory } from "@nestjs/core";
 import { AppModule } from "./app.module";
-import { AppConfig } from "./config/app.config";
 import { SwaggerModuleInjector } from "./infraestructure/swagger/swagger-module.injector";
 import { Environment } from "./infraestructure/config/environment";
 import { UnhandledExceptionsFilter } from "./infraestructure/exception-filter/unhandled-exceptions.filter";
+import { config } from "./config/app.config";
 
 async function bootstrap(): Promise<void> {
   const app = await NestFactory.create(AppModule);
@@ -15,11 +15,10 @@ async function bootstrap(): Promise<void> {
     origin: true,
   });
 
-  const appConfig = app.get(AppConfig);
   if (!Environment.isProduction()) {
     const swaggerConfig = {
       endpoint: "swagger",
-      title: appConfig.app.name,
+      title: config.app.name,
       description: "Boilerplate for NodeJS applications",
       version: "1.0",
     };

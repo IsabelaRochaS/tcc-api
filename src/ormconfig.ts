@@ -1,11 +1,12 @@
 import { ConnectionOptions } from "typeorm";
+import { config } from "./config/app.config";
 
 export const defaultConfig: ConnectionOptions = {
   type: "postgres",
-  host: process.env.TYPEORM_HOST,
+  host: config.db.host,
   port: 5432,
-  username: "user",
-  password: "password",
+  username: config.db.username,
+  password: config.db.password,
   database: "firefighter",
   migrationsTableName: "orm_migrations_firefighter",
   migrationsTransactionMode: "none",
@@ -23,4 +24,3 @@ export const defaultConfig: ConnectionOptions = {
 
 // We could not keep the property within ConnectionOptions
 export default [{ ...defaultConfig, keepConnectionAlive: true }];
-// export = ORMConfig
