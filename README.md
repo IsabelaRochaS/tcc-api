@@ -9,4 +9,14 @@ Uma API Nodejs ...
 
 ## :gear: Tecnologias utilizadas
 
+- NodeJS com framework NestJS
+- Postgres
+- Docker
+- Jest para testes
+
 ## :up: Rodando
+
+Para rodar a aplicação e um banco de dados Postgres em um container, 
+basta rodar:
+
+`docker compose up`
