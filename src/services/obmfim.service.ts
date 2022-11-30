@@ -5,6 +5,9 @@ import { OBMMeioRepository } from "../repository/obmmeio.repository";
 import { OBMFimRepository } from "../repository/obmfim.repository";
 import { OBMFim } from "../entities/obmfim.entity";
 import { OBMFimDto } from "../dto/obmfim.dto";
+import { FindConditions, Like } from "typeorm";
+import { Obmfim_per_typeView } from "../view/obmfim_per_type.view";
+import { Abbreviations } from "../enums/abbreviations.enum";
 
 @Injectable()
 export class OBMFimService {
@@ -13,6 +16,44 @@ export class OBMFimService {
     private readonly obmFimRepository: OBMFimRepository,
     private readonly municipioRepository: MunicipioRepository
   ) {}
+
+  public async getAll(type: string) {
+    if (!type) {
+      return this.obmFimRepository.findAll();
+    }
+
+    const findConditions: FindConditions<OBMFim> = {
+      sigla: Like(`%${type}%`),
+    };
+    return this.obmFimRepository.findByConditions(findConditions);
+  }
+
+  public async getPerType(obmMeioId?: string) {
+    const listView: Obmfim_per_typeView[] = [];
+    for (const value in Abbreviations) {
+      let findConditions: FindConditions<OBMFim> = {
+        sigla: Like(`%${value}%`),
+      };
+
+      findConditions = obmMeioId
+        ? { ...findConditions, obmMeio_id: obmMeioId }
+        : findConditions;
+
+      const returnedByAbb = await this.obmFimRepository.findByConditions(
+        findConditions
+      );
+
+      const relations = new Obmfim_per_typeView(
+        value,
+        returnedByAbb.length.toString(),
+        returnedByAbb
+      );
+
+      listView.push(relations);
+    }
+
+    return listView;
+  }
 
   public async injectOBMFimData(): Promise<(Partial<OBMFim> & OBMFim)[]> {
     const obmFimDtos: OBMFimDto[] = await csv().fromFile(
