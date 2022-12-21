@@ -9,6 +9,9 @@ services:
       - POSTGRES_USER=user
       - POSTGRES_PASSWORD=password
       - POSTGRES_DB=database
+    volumes:
+      # copy the sql script to create tables
+      - ./src/sql/create_database.sql:/docker-entrypoint-initdb.d/create_database.sql
   api:
     container_name: api
     restart: always

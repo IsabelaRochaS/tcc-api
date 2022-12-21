@@ -32,6 +32,15 @@ export class OBMFim {
   @Column("varchar", { name: "bairro", nullable: true })
   public bairro!: string;
 
+  @Column("varchar", { name: "pop_area_op", nullable: true })
+  public popAreaOp!: string;
+
+  @Column("varchar", { name: "area_km2", nullable: true })
+  public areaKM2!: string;
+
+  @Column("varchar", { name: "densidade_demo_hab_km2", nullable: true })
+  public densidadeDemoHabKM2!: string;
+
   @Column("varchar", { name: "municipio_id", nullable: true })
   public municipio_id!: string;
 

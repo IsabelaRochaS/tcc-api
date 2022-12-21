@@ -18,16 +18,37 @@ import { OBMMeioController } from "./controller/obmMeioController";
 import { OBMFimService } from "./services/obmfim.service";
 import { OBMFimRepository } from "./repository/obmfim.repository";
 import { OBMFimController } from "./controller/obmFimController";
+import { TipoEvento } from "./entities/tipoEvento.entity";
+import { TipoEventoService } from "./services/tipo-evento.service";
+import { TipoEventoRepository } from "./repository/tipo-evento.repository";
+import { TipoEventoController } from "./controller/tipoEventoController";
+import { SubtipoEvento } from "./entities/subtipoEvento.entity";
+import { SubtipoEventoController } from "./controller/subtipoEventoController";
+import { SubtipoEventoService } from "./services/subtipo-evento.service";
+import { SubtipoEventoRepository } from "./repository/subtipo-evento.repository";
 
 @Module({
   imports: [
     TypeOrmModule.forRoot(defaultConfig),
-    TypeOrmModule.forFeature([Municipio, OBMFim, OBMMeio, Viaturas]),
+    TypeOrmModule.forFeature([
+      Municipio,
+      OBMFim,
+      OBMMeio,
+      Viaturas,
+      TipoEvento,
+      SubtipoEvento,
+    ]),
     ConfigModule,
     HealthModule,
     ExceptionFilterModule,
   ],
-  controllers: [MunicipioController, OBMMeioController, OBMFimController],
+  controllers: [
+    MunicipioController,
+    OBMMeioController,
+    OBMFimController,
+    TipoEventoController,
+    SubtipoEventoController,
+  ],
   providers: [
     MunicipioService,
     MunicipioRepository,
@@ -35,6 +56,10 @@ import { OBMFimController } from "./controller/obmFimController";
     OBMMeioRepository,
     OBMFimService,
     OBMFimRepository,
+    TipoEventoService,
+    TipoEventoRepository,
+    SubtipoEventoService,
+    SubtipoEventoRepository,
   ],
 })
 export class AppModule implements OnModuleDestroy {

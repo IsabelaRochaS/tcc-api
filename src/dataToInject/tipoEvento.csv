@@ -1,0 +1,43 @@
+TipoCodigo,Tipo
+A0000,Falso Aviso
+A0100,Acidentes Náuticos
+A0200,Acidentes com Produtos Perigosos
+A0300,Acidentes Diversos
+A0400,Agressão
+A0500,Apoio Operacional de APH
+A0600,Apoio Operacional
+A0700,Arrombamento
+A0800,Atropelamento
+A0900,Busca de Pessoas
+A1000,CAPOTAGEM DE VEÍCULO
+A1100,Captura/Salvamento de animais
+A1200,COLISÃO DE VEÍCULOS
+A1300,Combate a Inseto
+A1400,Constatação de Óbito
+A1500,Corte de Árvore
+A1600,Denúncia
+A1700,DESCARRILHAMENTO/ACIDENTE FERROVIÁRIO
+A1800,DESLIZAMENTO/DESABAMENTO
+A1900,ESCAPAMENTO DE GÁS
+A2000,Eventos Clínicos
+A2100,Eventos Especiais
+A2200,EXPLOSÃO
+A2300,Fogo em Vegetação
+A2400,FOGO EM VEÍCULO
+A2500,Fogo em Via Pública
+A2600,Ginecologia e Obstetrícia
+A2700,INCÊNDIO
+A2800,Inundação/Alagamento
+A2900,Negligência/Violência Doméstica/Maus Tratos
+A3000,Operações Subaquáticas
+A3100,Operações Aéreas
+A3200,Queda de Pessoa
+A3300,QUEDA DE VEÍCULO
+A3400,Queimadura
+A3500,SALVAMENTO DE PESSOA
+A3600,Salvamento Marítimo (Serviço de Guarda-Vidas)
+A3700,Transporte Inter-hospitalar
+A3800,Transtorno Comportamental
+A3900,Constatação de Óbito / Apoio SAMU
+DC000,Defesa Civil
+RC000,Recolhimento de Cadáver (CSRC)

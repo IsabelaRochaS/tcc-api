@@ -1,0 +1,383 @@
+TIPO,SUBTIPO
+acidentes com produtos perigosos,em áreas de preservação
+acidentes com produtos perigosos,"em rios, lagos, lagoas, etc"
+acidentes com produtos perigosos,em estradas
+acidentes com produtos perigosos,em perímetros urbanos
+acidentes com produtos perigosos,em outros locais (especificar na observação)
+acidentes diversos,acidentes com animais
+acidentes diversos,choque elétrico
+acidentes diversos,intoxicação/envenenamento
+acidentes diversos,queda de objeto sobre pessoa
+acidentes diversos,outros (especificar na observação)
+acidentes náuticos,embarcação x embarcação
+acidentes náuticos,embarcação x cais
+acidentes náuticos,embarcação x outros
+acidentes náuticos,embarcação x pedra
+acidentes náuticos,embarcação a deriva
+acidentes náuticos,naufrágio
+acidentes náuticos,outros (especificar na observação)
+agressão,por arma branca
+agressão,por arma de fogo
+agressão,envenenamento
+agressão,força corporal/espancamento
+agressão,objeto contundente/pérfuro-cortante
+agressão,sexual
+agressão,substância/objeto quente
+agressão,outros (especificar na observação)
+apoio operacional de aph,"a órgãos públicos/agências (pmerj, prefeitura, etc)"
+apoio operacional de aph,ao cbmerj
+apoio operacional de aph,cumprimento de ordem judicial
+apoio operacional de aph,prevenção da ambulância
+apoio operacional de aph,outros (especificar na observação)
+apoio operacional do cbmerj,"a órgãos públicos/agências (pmerj, prefeitura, etc)"
+apoio operacional do cbmerj,a outras obm
+apoio operacional do cbmerj,ao samu
+apoio operacional do cbmerj,retirada de cadáver
+apoio operacional do cbmerj,outros (especificar na observação)
+arrombamento,de veículos
+arrombamento,em bancos ou similares
+arrombamento,em estabelecimentos comerciais
+arrombamento,em estabelecimentos industriais
+arrombamento,em órgãos públicos
+arrombamento,em residências
+arrombamento,outros (especificar na observação)
+atropelamento,automóvel
+atropelamento,bicicleta
+atropelamento,bonde
+atropelamento,brt
+atropelamento,caminhão
+atropelamento,carroça
+atropelamento,lancha
+atropelamento,metrô
+atropelamento,moto
+atropelamento,moto-aquática (jet-ski)
+atropelamento,ônibus
+atropelamento,trem
+atropelamento,van
+atropelamento,vlt
+atropelamento,outros (especificar na observação)
+busca de pessoas,em cachoeiras
+busca de pessoas,em comunidades
+busca de pessoas,em costões
+busca de pessoas,em encostas
+busca de pessoas,em florestas/matas
+busca de pessoas,em lagoas
+busca de pessoas,em montanhas
+busca de pessoas,em poços
+busca de pessoas,em represa
+busca de pessoas,em rios
+busca de pessoas,no mar
+busca de pessoas,outros (especificar na observação)
+capotagem de veículo,auto
+capotagem de veículo,brt
+capotagem de veículo,caminhão
+capotagem de veículo,ônibus
+capotagem de veículo,van
+capotagem de veículo,outros (especificar na observação)
+captura/salvamento de animais,aves
+captura/salvamento de animais,baleia
+captura/salvamento de animais,boi/vaca
+captura/salvamento de animais,cabra/bode/ovelha/carneiro
+captura/salvamento de animais,cães
+captura/salvamento de animais,capivara
+captura/salvamento de animais,cavalo
+captura/salvamento de animais,cobra (ofídio)
+captura/salvamento de animais,gambá
+captura/salvamento de animais,gato
+captura/salvamento de animais,golfinho
+captura/salvamento de animais,jacaré
+captura/salvamento de animais,lagarto
+captura/salvamento de animais,macaco
+captura/salvamento de animais,morcego
+captura/salvamento de animais,porco-espinho/ouriço
+captura/salvamento de animais,pinguim
+captura/salvamento de animais,outros (especificar na observação)
+colisão de veículos,auto x auto
+colisão de veículos,auto x bicicleta
+colisão de veículos,auto x caminhão
+colisão de veículos,auto x carroça
+colisão de veículos,auto x moto
+colisão de veículos,auto x muro
+colisão de veículos,auto x ônibus
+colisão de veículos,auto x poste
+colisão de veículos,auto x van
+colisão de veículos,auto x outros
+colisão de veículos,brt x bicicleta
+colisão de veículos,brt x brt
+colisão de veículos,brt x caminhão
+colisão de veículos,brt x estação
+colisão de veículos,brt x moto
+colisão de veículos,brt x muro
+colisão de veículos,brt x poste
+colisão de veículos,brt x outros
+colisão de veículos,caminhão x bicicleta
+colisão de veículos,caminhão x passarela
+colisão de veículos,caminhão x caminhão
+colisão de veículos,caminhão x moto
+colisão de veículos,caminhão x muro
+colisão de veículos,caminhão x poste
+colisão de veículos,caminhão x outros
+colisão de veículos,moto x bicicleta
+colisão de veículos,moto x moto
+colisão de veículos,moto x muro
+colisão de veículos,moto x poste
+colisão de veículos,moto x outros
+colisão de veículos,ônibus x bicicleta
+colisão de veículos,ônibus x caminhão
+colisão de veículos,ônibus x carroça
+colisão de veículos,ônibus x moto
+colisão de veículos,ônibus x muro
+colisão de veículos,ônibus x ônibus
+colisão de veículos,ônibus x poste
+colisão de veículos,ônibus x van
+colisão de veículos,ônibus x outros
+colisão de veículos,van x bicicleta
+colisão de veículos,van x caminhão
+colisão de veículos,van x moto
+colisão de veículos,van x muro
+colisão de veículos,van x poste
+colisão de veículos,van x van
+colisão de veículos,van x outros
+colisão de veículos,vlt x bicicleta
+colisão de veículos,vlt x moto
+colisão de veículos,vlt x muro
+colisão de veículos,vlt x poste
+colisão de veículos,vlt x vlt
+colisão de veículos,vlt x outros
+colisão de veículos,outros x outros (especificar na observação)
+combate a inseto,de abelhas
+combate a inseto,de vespas/marimbondos
+constatação de óbito,já em óbito - em domicílio
+constatação de óbito,já em óbito - em via pública
+constatação de óbito,já em óbito - em outros estabelecimentos
+corte de árvore,risco iminente de queda
+corte de árvore,caída em vias públicas
+corte de árvore,"caída sobre edificações (casas, muros, etc)"
+corte de árvore,caída sobre veículos (sem vítimas)
+corte de árvore,outros (especificar na observação)
+denúncia,relativa ao cbmerj
+denúncia,relativa ao samu
+descarrilhamento/ acidente ferroviário,metrô
+descarrilhamento/ acidente ferroviário,trem
+descarrilhamento/ acidente ferroviário,vlt
+descarrilhamento/ acidente ferroviário,envolvendo cargas
+deslizamento/desabamento,ameaça de desabamento
+deslizamento/desabamento,ameaça de deslizamento
+deslizamento/desabamento,desabamento de edificação
+deslizamento/desabamento,desabamento de marquise
+deslizamento/desabamento,desabamento de passarela
+deslizamento/desabamento,desabamento de viaduto
+deslizamento/desabamento,deslizamento de terra
+deslizamento/desabamento,outros (especificar na observação)
+escapamento de gás,em edificação comercial
+escapamento de gás,em edificação residencial
+escapamento de gás,em posto de abastecimento
+escapamento de gás,em veículo
+escapamento de gás,em via pública
+escapamento de gás,outros (especificar na observação)
+eventos clínicos,a ser definido pelo profissional de saúde
+eventos clínicos,alergia/anafilaxia
+eventos clínicos,alteração do nível de consciência
+eventos clínicos,cefaleia
+eventos clínicos,crise convulsiva
+eventos clínicos,déficit sensitivo-motor
+eventos clínicos,desmaio/ síncope
+eventos clínicos,diarreia
+eventos clínicos,dispneia
+eventos clínicos,distúrbio hidroeletrolítico/ desidratação
+eventos clínicos,distúrbios do trato urinário
+eventos clínicos,dor abdominal
+eventos clínicos,dor em membros
+eventos clínicos,dor nas costas
+eventos clínicos,dor no tórax
+eventos clínicos,dor torácica (<2 horas)
+eventos clínicos,dor torácica (>2 horas)
+eventos clínicos,febre
+eventos clínicos,hemorragia não traumática
+eventos clínicos,hipoglicemia/hiperglicemia
+eventos clínicos,náuseas/vômitos
+eventos clínicos,obstrução de vias aéreas por corpo estranho (ovace)
+eventos clínicos,olhos/ouvidos/nariz/garganta
+eventos clínicos,parada cardiorrespiratória (pcr)
+eventos clínicos,recém-nascido
+eventos clínicos,tonteira/ vertigem
+eventos clínicos,outros (especificar na observação)
+eventos especiais,auxílio técnico
+eventos especiais,corrida de área
+eventos especiais,desfile cívico-militar
+eventos especiais,perícia de incêndio/explosão
+eventos especiais,perícia de acidentes com viaturas
+eventos especiais,prevenção
+eventos especiais,simulado
+eventos especiais,outros (especificar na observação)
+explosão,em bancos/caixas eletrônicos
+explosão,em casas de show/boate
+explosão,em cinemas/teatros
+explosão,em depósitos/galpões
+explosão,em edificações residenciais
+explosão,"em estabelecimentos de ensino (escolas,universidades,etc)"
+explosão,em garagem
+explosão,"em hospital (unidades de saúde,laboratórios,etc)"
+explosão,em indústrias
+explosão,"em órgãos públicos (quartéis, tribunais, embaixadas,etc)"
+explosão,em restaurante/bar
+explosão,em shopping
+explosão,em templos religiosos
+explosão,em veículo
+explosão,em via pública
+explosão,outros (especificar na observação)
+falso aviso,incêndio
+falso aviso,salvamento
+falso aviso,aph
+fogo em vegetação,"em áreas protegidas (parques, reservas, apa, etc)"
+fogo em vegetação,"em áreas não protegidas (terrenos baldios, vegetação em geral, etc)"
+fogo em veículo,aeronave
+fogo em veículo,automóvel
+fogo em veículo,brt
+fogo em veículo,caminhão
+fogo em veículo,embarcação
+fogo em veículo,metrô
+fogo em veículo,moto e similares
+fogo em veículo,ônibus
+fogo em veículo,trem
+fogo em veículo,van
+fogo em veículo,outros (especificar na observação)
+fogo em via pública,"em galerias subterrâneas (bueiros, etc)"
+fogo em via pública,em postes/transformadores
+fogo em via pública,em lixo/lixeiras
+fogo em via pública,outros (especificar na observação)
+ginecologia e obstetrícia,a ser definido pelo profissional de saúde
+ginecologia e obstetrícia,abortamento espontâneo (<22 semanas)
+ginecologia e obstetrícia,assistência ao parto consumado (>22 semanas)
+ginecologia e obstetrícia,assistência ao trabalho de parto (>22 semanas)
+ginecologia e obstetrícia,"cefaleia, tontura e vertigem na gestante"
+ginecologia e obstetrícia,desmaio e síncope na gestante
+ginecologia e obstetrícia,dispneia na gestante
+ginecologia e obstetrícia,dor abdominal/ lombar/ contrações uterinas
+ginecologia e obstetrícia,febre/ sinais de infecção na gestante
+ginecologia e obstetrícia,hemorragia gestacional
+ginecologia e obstetrícia,hemorragia ginecológica
+ginecologia e obstetrícia,hemorragia puerperal (após o parto)
+ginecologia e obstetrícia,mal-estar geral na gestante
+ginecologia e obstetrícia,náuseas/vômitos na gestante
+ginecologia e obstetrícia,perda de líquido ou secreções por via vaginal na gestante
+ginecologia e obstetrícia,pré-eclâmpsia e eclâmpsia (>20 semanas)
+ginecologia e obstetrícia,queixas urinárias na gestante
+ginecologia e obstetrícia,relato de convulsão na gestante
+ginecologia e obstetrícia,outros (especificar na observação)
+incêndio,em bancos/caixas eletrônicos
+incêndio,em casas de show/boate
+incêndio,em cinemas/teatros
+incêndio,em depósitos/galpões
+incêndio,em edificações residenciais
+incêndio,"em estabelecimentos de ensino (escolas,universidades,etc)"
+incêndio,em garagem
+incêndio,"em hospital (unidades de saúde,laboratórios,etc)"
+incêndio,em indústrias
+incêndio,"em órgãos públicos (quartéis, tribunais, embaixadas,etc)"
+incêndio,em restaurante/bar
+incêndio,em shopping
+incêndio,em templos religiosos
+incêndio,em veículo
+incêndio,em via pública
+incêndio,outros (especificar na observação)
+inundação/alagamento,"alagamento (ruas, garagens, casas, tubulações rompidas, etc)"
+inundação/alagamento,"inundação fluvial (cheia de rios, lagos, etc)"
+negligência/violência doméstica/ maus tratos,em bebês (0 a 1 ano de idade)
+negligência/violência doméstica/ maus tratos,em crianças (1 a 12 anos de idade)
+negligência/violência doméstica/ maus tratos,em adolescentes (12 a 17 anos de idade)
+negligência/violência doméstica/ maus tratos,em adultos
+negligência/violência doméstica/ maus tratos,em idosos (>65 anos de idade)
+operações subaquáticas,busca de aeronaves
+operações subaquáticas,busca de bens
+operações subaquáticas,busca de pessoa subaquática
+operações subaquáticas,busca de pessoa superficial
+operações subaquáticas,busca de embarcações
+operações subaquáticas,busca de veículos
+operações subaquáticas,instrução
+operações subaquáticas,reflutuação
+operações subaquáticas,resgate de pessoas
+operações subaquáticas,outros (especificar na observação)
+operações aéreas,"busca em lagos, represas, rios"
+operações aéreas,busca em matas e florestas
+operações aéreas,busca no mar
+operações aéreas,combate a incêndio florestal
+operações aéreas,evacuação aeromédica
+operações aéreas,instruções cbmerj
+operações aéreas,monitoramento ambiental
+operações aéreas,patrulhamento
+operações aéreas,retirada de cadáver
+operações aéreas,salvamento em altura
+operações aéreas,"salvamento em lagos, represas, rios"
+operações aéreas,salvamento em matas e florestas
+operações aéreas,salvamento no mar
+operações aéreas,tih adulto
+operações aéreas,tih neo-natal
+operações aéreas,transporte de órgãos e tecidos
+operações aéreas,transporte de tropa
+operações aéreas,vôo administrativo
+operações aéreas,vôo de check
+operações aéreas,outros (especificar na observação)
+queda de pessoa,da própria altura
+queda de pessoa,da bicicleta
+queda de pessoa,em ferrovias
+queda de pessoa,em rodoviário
+queda de pessoa,de altura inferior à 3m
+queda de pessoa,de altura superior à 3m
+queda de pessoa,outros (especificar na observação)
+queda de veículo,queda de asa delta
+queda de veículo,queda de automóvel
+queda de veículo,queda de avião
+queda de veículo,queda de brt
+queda de veículo,queda de caminhão
+queda de veículo,queda de helicóptero
+queda de veículo,queda de moto
+queda de veículo,queda de ônibus
+queda de veículo,queda de parapente
+queda de veículo,queda de van
+queda de veículo,outros tipos de veículos aéreos (especificar na observação)
+queda de veículo,outros tipos de veículos rodoviários (especificar na observação)
+queimadura,queimadura por fogo
+queimadura,queimadura por fogos de artifício
+queimadura,queimadura por sol
+queimadura,queimadura por substâncias quentes
+queimadura,queimadura por substâncias químicas
+queimadura,outros (especificar na observação)
+recolhimento de cadáver,em via pública
+recolhimento de cadáver,em residência
+recolhimento de cadáver,em hospitais
+recolhimento de cadáver,baseamento
+recolhimento de cadáver,despojo (recolhimento de partes do corpo)
+recolhimento de cadáver,exumação
+recolhimento de cadáver,inumação
+recolhimento de cadáver,translado de cadáver
+recolhimento de cadáver,outros (especificar na observação)
+salvamento de pessoa,em árvores
+salvamento de pessoa,em cachoeiras
+salvamento de pessoa,em cavernas
+salvamento de pessoa,em edificações
+salvamento de pessoa,em elevador
+salvamento de pessoa,em encostas/montanhas
+salvamento de pessoa,em escadas
+salvamento de pessoa,em florestas/matas/trilhas
+salvamento de pessoa,em lagos/represas/rios
+salvamento de pessoa,em piscinas
+salvamento de pessoa,em poços
+salvamento de pessoa,em postes
+salvamento de pessoa,em torres
+salvamento de pessoa,em vias publicas
+salvamento de pessoa,tentativa de suicídio
+salvamento de pessoa,outros (especificar na observação)
+salvamento marítimo (serviço de guarda-vidas),criança perdida na praia
+salvamento marítimo (serviço de guarda-vidas),prevenção na praia
+salvamento marítimo (serviço de guarda-vidas),salvamento no mar
+salvamento marítimo (serviço de guarda-vidas),outros (especificar na observação)
+transporte inter-hospitalar,terrestre - em bebês (0 a 1 ano de idade)
+transporte inter-hospitalar,terrestre - em crianças (1 a 12 anos de idade)
+transporte inter-hospitalar,terrestre - em adolescentes (12 a 17 anos de idade)
+transporte inter-hospitalar,terrestre - em adultos
+transporte inter-hospitalar,terrestre - em idosos (>65 anos de idade)
+transtorno comportamental,ausência de inquietação/ausência de agressividade/ausência de ameaça a integridade (caso social)
+transtorno comportamental,inquietação/agressividade/ameaça a integridade-com ferimentos ou alteração do quadro clínico
+transtorno comportamental,inquietação/agressividade/ameaça a integridade-sem ferimentos ou alteração do quadro clínico
+transtorno comportamental,outros (especificar na observação)

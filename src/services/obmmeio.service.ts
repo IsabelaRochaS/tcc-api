@@ -47,9 +47,9 @@ export class OBMMeioService {
       "./src/dataToInject/cba.csv"
     );
 
-    const municipios: Partial<OBMMeio>[] = await this.getOBMMeio(obmMeioDtos);
+    const OBMMeioArray: Partial<OBMMeio>[] = await this.getOBMMeio(obmMeioDtos);
 
-    return this.obmMeioRepository.saveAll(municipios);
+    return this.obmMeioRepository.saveAll(OBMMeioArray);
   }
 
   private async getOBMMeio(
@@ -60,13 +60,13 @@ export class OBMMeioService {
     return obmMeiosDto.map((obmMeioDto) => {
       const obmMeio = OBMMeioDto.convert(obmMeioDto);
 
-      const municipioIds = municipios.filter((municipio) => {
+      const municipioIds = municipios.find((municipio) => {
         if (municipio.nome == obmMeioDto.MUNICÍPIO.toLowerCase()) {
           return municipio.id;
         }
       });
 
-      obmMeio.municipio_id = municipioIds[0].id;
+      obmMeio.municipio_id = municipioIds.id;
 
       return obmMeio;
     });
