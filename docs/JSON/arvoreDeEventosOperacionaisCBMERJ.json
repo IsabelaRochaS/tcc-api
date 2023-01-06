@@ -1,0 +1,2676 @@
+﻿[
+    {
+        "ITEM": "1",
+        "ID_TIPO": "A0200",
+        "TIPO": "Acidentes Com Produtos Perigosos",
+        "ID_SUBTIPO": "A0201",
+        "SUBTIPO": "Em Áreas de Preservação"
+    },
+    {
+        "ITEM": "2",
+        "ID_TIPO": "A0200",
+        "TIPO": "Acidentes Com Produtos Perigosos",
+        "ID_SUBTIPO": "A0202",
+        "SUBTIPO": "Em Rios, Lagos, Lagoas, etc"
+    },
+    {
+        "ITEM": "3",
+        "ID_TIPO": "A0200",
+        "TIPO": "Acidentes Com Produtos Perigosos",
+        "ID_SUBTIPO": "A0203",
+        "SUBTIPO": "Em Estradas"
+    },
+    {
+        "ITEM": "4",
+        "ID_TIPO": "A0200",
+        "TIPO": "Acidentes Com Produtos Perigosos",
+        "ID_SUBTIPO": "A0204",
+        "SUBTIPO": "Em Perímetros Urbanos"
+    },
+    {
+        "ITEM": "5",
+        "ID_TIPO": "A0200",
+        "TIPO": "Acidentes Com Produtos Perigosos",
+        "ID_SUBTIPO": "A0299",
+        "SUBTIPO": "Em outros locais (especificar na observação)"
+    },
+    {
+        "ITEM": "6",
+        "ID_TIPO": "A0300",
+        "TIPO": "Acidentes Diversos",
+        "ID_SUBTIPO": "A0301",
+        "SUBTIPO": "Acidentes com animais"
+    },
+    {
+        "ITEM": "7",
+        "ID_TIPO": "A0300",
+        "TIPO": "Acidentes Diversos",
+        "ID_SUBTIPO": "A0302",
+        "SUBTIPO": "Choque elétrico"
+    },
+    {
+        "ITEM": "8",
+        "ID_TIPO": "A0300",
+        "TIPO": "Acidentes Diversos",
+        "ID_SUBTIPO": "A0303",
+        "SUBTIPO": "Intoxicação/Envenenamento"
+    },
+    {
+        "ITEM": "9",
+        "ID_TIPO": "A0300",
+        "TIPO": "Acidentes Diversos",
+        "ID_SUBTIPO": "A0304",
+        "SUBTIPO": "Queda de Objeto sobre Pessoa"
+    },
+    {
+        "ITEM": "10",
+        "ID_TIPO": "A0300",
+        "TIPO": "Acidentes Diversos",
+        "ID_SUBTIPO": "A0399",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "11",
+        "ID_TIPO": "A0100",
+        "TIPO": "Acidentes Náuticos",
+        "ID_SUBTIPO": "A0101",
+        "SUBTIPO": "Embarcação x Embarcação"
+    },
+    {
+        "ITEM": "12",
+        "ID_TIPO": "A0100",
+        "TIPO": "Acidentes Náuticos",
+        "ID_SUBTIPO": "A0102",
+        "SUBTIPO": "Embarcação x Cais"
+    },
+    {
+        "ITEM": "13",
+        "ID_TIPO": "A0100",
+        "TIPO": "Acidentes Náuticos",
+        "ID_SUBTIPO": "A0103",
+        "SUBTIPO": "Embarcação x Outros"
+    },
+    {
+        "ITEM": "14",
+        "ID_TIPO": "A0100",
+        "TIPO": "Acidentes Náuticos",
+        "ID_SUBTIPO": "A0104",
+        "SUBTIPO": "Embarcação x Pedra"
+    },
+    {
+        "ITEM": "15",
+        "ID_TIPO": "A0100",
+        "TIPO": "Acidentes Náuticos",
+        "ID_SUBTIPO": "A0105",
+        "SUBTIPO": "Embarcação a Deriva"
+    },
+    {
+        "ITEM": "16",
+        "ID_TIPO": "A0100",
+        "TIPO": "Acidentes Náuticos",
+        "ID_SUBTIPO": "A0106",
+        "SUBTIPO": "Naufrágio"
+    },
+    {
+        "ITEM": "17",
+        "ID_TIPO": "A0100",
+        "TIPO": "Acidentes Náuticos",
+        "ID_SUBTIPO": "A0199",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "18",
+        "ID_TIPO": "A0400",
+        "TIPO": "Agressão",
+        "ID_SUBTIPO": "A0401",
+        "SUBTIPO": "Por Arma Branca"
+    },
+    {
+        "ITEM": "19",
+        "ID_TIPO": "A0400",
+        "TIPO": "Agressão",
+        "ID_SUBTIPO": "A0402",
+        "SUBTIPO": "Por Arma de Fogo"
+    },
+    {
+        "ITEM": "20",
+        "ID_TIPO": "A0400",
+        "TIPO": "Agressão",
+        "ID_SUBTIPO": "A0403",
+        "SUBTIPO": "Envenenamento"
+    },
+    {
+        "ITEM": "21",
+        "ID_TIPO": "A0400",
+        "TIPO": "Agressão",
+        "ID_SUBTIPO": "A0404",
+        "SUBTIPO": "Força Corporal/Espancamento"
+    },
+    {
+        "ITEM": "22",
+        "ID_TIPO": "A0400",
+        "TIPO": "Agressão",
+        "ID_SUBTIPO": "A0405",
+        "SUBTIPO": "Objeto Contundente/Pérfuro-cortante"
+    },
+    {
+        "ITEM": "23",
+        "ID_TIPO": "A0400",
+        "TIPO": "Agressão",
+        "ID_SUBTIPO": "A0406",
+        "SUBTIPO": "Sexual"
+    },
+    {
+        "ITEM": "24",
+        "ID_TIPO": "A0400",
+        "TIPO": "Agressão",
+        "ID_SUBTIPO": "A0407",
+        "SUBTIPO": "Substância/Objeto quente"
+    },
+    {
+        "ITEM": "25",
+        "ID_TIPO": "A0400",
+        "TIPO": "Agressão",
+        "ID_SUBTIPO": "A0499",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "26",
+        "ID_TIPO": "A0500",
+        "TIPO": "Apoio Operacional de APH",
+        "ID_SUBTIPO": "A0501",
+        "SUBTIPO": "A Órgãos Públicos/Agências (PMERJ, Prefeitura, etc.)"
+    },
+    {
+        "ITEM": "27",
+        "ID_TIPO": "A0500",
+        "TIPO": "Apoio Operacional de APH",
+        "ID_SUBTIPO": "A0502",
+        "SUBTIPO": "Ao CBMERJ"
+    },
+    {
+        "ITEM": "28",
+        "ID_TIPO": "A0500",
+        "TIPO": "Apoio Operacional de APH",
+        "ID_SUBTIPO": "A0503",
+        "SUBTIPO": "Cumprimento de Ordem Judicial"
+    },
+    {
+        "ITEM": "29",
+        "ID_TIPO": "A0500",
+        "TIPO": "Apoio Operacional de APH",
+        "ID_SUBTIPO": "A0504",
+        "SUBTIPO": "Prevenção da Ambulância"
+    },
+    {
+        "ITEM": "30",
+        "ID_TIPO": "A0500",
+        "TIPO": "Apoio Operacional de APH",
+        "ID_SUBTIPO": "A0599",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "31",
+        "ID_TIPO": "A0600",
+        "TIPO": "Apoio Operacional do CBMERJ",
+        "ID_SUBTIPO": "A0601",
+        "SUBTIPO": "A Órgãos Públicos/Agências (PMERJ, Prefeitura, etc.)"
+    },
+    {
+        "ITEM": "32",
+        "ID_TIPO": "A0600",
+        "TIPO": "Apoio Operacional do CBMERJ",
+        "ID_SUBTIPO": "A0602",
+        "SUBTIPO": "A Outras OBM"
+    },
+    {
+        "ITEM": "33",
+        "ID_TIPO": "A0600",
+        "TIPO": "Apoio Operacional do CBMERJ",
+        "ID_SUBTIPO": "A0603",
+        "SUBTIPO": "Ao SAMU"
+    },
+    {
+        "ITEM": "34",
+        "ID_TIPO": "A0600",
+        "TIPO": "Apoio Operacional do CBMERJ",
+        "ID_SUBTIPO": "A0604",
+        "SUBTIPO": "Retirada de Cadáver"
+    },
+    {
+        "ITEM": "35",
+        "ID_TIPO": "A0600",
+        "TIPO": "Apoio Operacional do CBMERJ",
+        "ID_SUBTIPO": "A0699",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "36",
+        "ID_TIPO": "A0700",
+        "TIPO": "Arrombamento",
+        "ID_SUBTIPO": "A0701",
+        "SUBTIPO": "De Veículos"
+    },
+    {
+        "ITEM": "37",
+        "ID_TIPO": "A0700",
+        "TIPO": "Arrombamento",
+        "ID_SUBTIPO": "A0702",
+        "SUBTIPO": "Em Bancos ou Similares"
+    },
+    {
+        "ITEM": "38",
+        "ID_TIPO": "A0700",
+        "TIPO": "Arrombamento",
+        "ID_SUBTIPO": "A0703",
+        "SUBTIPO": "Em Estabelecimentos Comerciais"
+    },
+    {
+        "ITEM": "39",
+        "ID_TIPO": "A0700",
+        "TIPO": "Arrombamento",
+        "ID_SUBTIPO": "A0704",
+        "SUBTIPO": "Em Estabelecimentos Industriais"
+    },
+    {
+        "ITEM": "40",
+        "ID_TIPO": "A0700",
+        "TIPO": "Arrombamento",
+        "ID_SUBTIPO": "A0705",
+        "SUBTIPO": "Em Órgãos Públicos"
+    },
+    {
+        "ITEM": "41",
+        "ID_TIPO": "A0700",
+        "TIPO": "Arrombamento",
+        "ID_SUBTIPO": "A0706",
+        "SUBTIPO": "Em Residências"
+    },
+    {
+        "ITEM": "42",
+        "ID_TIPO": "A0700",
+        "TIPO": "Arrombamento",
+        "ID_SUBTIPO": "A0799",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "43",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0801",
+        "SUBTIPO": "Automóvel"
+    },
+    {
+        "ITEM": "44",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0802",
+        "SUBTIPO": "Bicicleta"
+    },
+    {
+        "ITEM": "45",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0803",
+        "SUBTIPO": "Bonde"
+    },
+    {
+        "ITEM": "46",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0804",
+        "SUBTIPO": "BRT"
+    },
+    {
+        "ITEM": "47",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0805",
+        "SUBTIPO": "Caminhão"
+    },
+    {
+        "ITEM": "48",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0806",
+        "SUBTIPO": "Carroça"
+    },
+    {
+        "ITEM": "49",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0807",
+        "SUBTIPO": "Lancha"
+    },
+    {
+        "ITEM": "50",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0808",
+        "SUBTIPO": "Metrô"
+    },
+    {
+        "ITEM": "51",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0809",
+        "SUBTIPO": "Moto"
+    },
+    {
+        "ITEM": "52",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0810",
+        "SUBTIPO": "Moto-Aquática (Jet-Ski)"
+    },
+    {
+        "ITEM": "53",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0811",
+        "SUBTIPO": "Ônibus"
+    },
+    {
+        "ITEM": "54",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0812",
+        "SUBTIPO": "Trem"
+    },
+    {
+        "ITEM": "55",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0813",
+        "SUBTIPO": "Van"
+    },
+    {
+        "ITEM": "56",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0814",
+        "SUBTIPO": "VLT"
+    },
+    {
+        "ITEM": "57",
+        "ID_TIPO": "A0800",
+        "TIPO": "Atropelamento",
+        "ID_SUBTIPO": "A0899",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "58",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0901",
+        "SUBTIPO": "Em Cachoeiras"
+    },
+    {
+        "ITEM": "59",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0902",
+        "SUBTIPO": "Em Comunidades"
+    },
+    {
+        "ITEM": "60",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0903",
+        "SUBTIPO": "Em Costões"
+    },
+    {
+        "ITEM": "61",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0904",
+        "SUBTIPO": "Em Encostas"
+    },
+    {
+        "ITEM": "62",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0905",
+        "SUBTIPO": "Em Florestas/Matas"
+    },
+    {
+        "ITEM": "63",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0906",
+        "SUBTIPO": "Em Lagoas"
+    },
+    {
+        "ITEM": "64",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0907",
+        "SUBTIPO": "Em Montanhas"
+    },
+    {
+        "ITEM": "65",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0908",
+        "SUBTIPO": "Em Poços"
+    },
+    {
+        "ITEM": "66",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0909",
+        "SUBTIPO": "Em Represa"
+    },
+    {
+        "ITEM": "67",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0910",
+        "SUBTIPO": "Em Rios"
+    },
+    {
+        "ITEM": "68",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0911",
+        "SUBTIPO": "No Mar"
+    },
+    {
+        "ITEM": "69",
+        "ID_TIPO": "A0900",
+        "TIPO": "Busca de Pessoas",
+        "ID_SUBTIPO": "A0999",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "70",
+        "ID_TIPO": "A1000",
+        "TIPO": "Capotagem de Veículo",
+        "ID_SUBTIPO": "A1001",
+        "SUBTIPO": "Auto"
+    },
+    {
+        "ITEM": "71",
+        "ID_TIPO": "A1000",
+        "TIPO": "Capotagem de Veículo",
+        "ID_SUBTIPO": "A1002",
+        "SUBTIPO": "BRT"
+    },
+    {
+        "ITEM": "72",
+        "ID_TIPO": "A1000",
+        "TIPO": "Capotagem de Veículo",
+        "ID_SUBTIPO": "A1003",
+        "SUBTIPO": "Caminhão"
+    },
+    {
+        "ITEM": "73",
+        "ID_TIPO": "A1000",
+        "TIPO": "Capotagem de Veículo",
+        "ID_SUBTIPO": "A1004",
+        "SUBTIPO": "Ônibus"
+    },
+    {
+        "ITEM": "74",
+        "ID_TIPO": "A1000",
+        "TIPO": "Capotagem de Veículo",
+        "ID_SUBTIPO": "A1005",
+        "SUBTIPO": "Van"
+    },
+    {
+        "ITEM": "75",
+        "ID_TIPO": "A1000",
+        "TIPO": "Capotagem de Veículo",
+        "ID_SUBTIPO": "A1099",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "76",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1101",
+        "SUBTIPO": "Aves"
+    },
+    {
+        "ITEM": "77",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1102",
+        "SUBTIPO": "Baleia"
+    },
+    {
+        "ITEM": "78",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1103",
+        "SUBTIPO": "Boi/Vaca"
+    },
+    {
+        "ITEM": "79",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1104",
+        "SUBTIPO": "Cabra/Bode/Ovelha/Carneiro"
+    },
+    {
+        "ITEM": "80",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1105",
+        "SUBTIPO": "Cães"
+    },
+    {
+        "ITEM": "81",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1106",
+        "SUBTIPO": "Capivara"
+    },
+    {
+        "ITEM": "82",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1107",
+        "SUBTIPO": "Cavalo"
+    },
+    {
+        "ITEM": "83",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1108",
+        "SUBTIPO": "Cobra (Ofídio)"
+    },
+    {
+        "ITEM": "84",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1109",
+        "SUBTIPO": "Gambá"
+    },
+    {
+        "ITEM": "85",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1110",
+        "SUBTIPO": "Gato"
+    },
+    {
+        "ITEM": "86",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1111",
+        "SUBTIPO": "Golfinho"
+    },
+    {
+        "ITEM": "87",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1112",
+        "SUBTIPO": "Jacaré"
+    },
+    {
+        "ITEM": "88",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1113",
+        "SUBTIPO": "Lagarto"
+    },
+    {
+        "ITEM": "89",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1114",
+        "SUBTIPO": "Macaco"
+    },
+    {
+        "ITEM": "90",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1115",
+        "SUBTIPO": "Morcego"
+    },
+    {
+        "ITEM": "91",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1116",
+        "SUBTIPO": "Porco-Espinho/Ouriço"
+    },
+    {
+        "ITEM": "92",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1117",
+        "SUBTIPO": "Pinguim"
+    },
+    {
+        "ITEM": "93",
+        "ID_TIPO": "A1100",
+        "TIPO": "Captura/Salvamento de Animais",
+        "ID_SUBTIPO": "A1199",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "94",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1201",
+        "SUBTIPO": "Auto X Auto"
+    },
+    {
+        "ITEM": "95",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1202",
+        "SUBTIPO": "Auto X Bicicleta"
+    },
+    {
+        "ITEM": "96",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1203",
+        "SUBTIPO": "Auto X Caminhão"
+    },
+    {
+        "ITEM": "97",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1204",
+        "SUBTIPO": "Auto X Carroça"
+    },
+    {
+        "ITEM": "98",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1205",
+        "SUBTIPO": "Auto X Moto"
+    },
+    {
+        "ITEM": "99",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1206",
+        "SUBTIPO": "Auto X Muro"
+    },
+    {
+        "ITEM": "100",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1207",
+        "SUBTIPO": "Auto X Ônibus"
+    },
+    {
+        "ITEM": "101",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1208",
+        "SUBTIPO": "Auto X Poste"
+    },
+    {
+        "ITEM": "102",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1209",
+        "SUBTIPO": "Auto X Van"
+    },
+    {
+        "ITEM": "103",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1210",
+        "SUBTIPO": "Auto X Outros"
+    },
+    {
+        "ITEM": "104",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1211",
+        "SUBTIPO": "BRT X Bicicleta"
+    },
+    {
+        "ITEM": "105",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1212",
+        "SUBTIPO": "BRT X BRT"
+    },
+    {
+        "ITEM": "106",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1213",
+        "SUBTIPO": "BRT X Caminhão"
+    },
+    {
+        "ITEM": "107",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1214",
+        "SUBTIPO": "BRT X Estação"
+    },
+    {
+        "ITEM": "108",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1215",
+        "SUBTIPO": "BRT X Moto"
+    },
+    {
+        "ITEM": "109",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1216",
+        "SUBTIPO": "BRT X Muro"
+    },
+    {
+        "ITEM": "110",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1217",
+        "SUBTIPO": "BRT X Poste"
+    },
+    {
+        "ITEM": "111",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1218",
+        "SUBTIPO": "BRT X Outros"
+    },
+    {
+        "ITEM": "112",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1219",
+        "SUBTIPO": "Caminhão X Bicicleta"
+    },
+    {
+        "ITEM": "113",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1220",
+        "SUBTIPO": "Caminhão X Passarela"
+    },
+    {
+        "ITEM": "114",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1221",
+        "SUBTIPO": "Caminhão X Caminhão"
+    },
+    {
+        "ITEM": "115",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1222",
+        "SUBTIPO": "Caminhão X Moto"
+    },
+    {
+        "ITEM": "116",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1223",
+        "SUBTIPO": "Caminhão X Muro"
+    },
+    {
+        "ITEM": "117",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1224",
+        "SUBTIPO": "Caminhão X Poste"
+    },
+    {
+        "ITEM": "118",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1225",
+        "SUBTIPO": "Caminhão X Outros"
+    },
+    {
+        "ITEM": "119",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1226",
+        "SUBTIPO": "Moto X Bicicleta"
+    },
+    {
+        "ITEM": "120",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1227",
+        "SUBTIPO": "Moto X Moto"
+    },
+    {
+        "ITEM": "121",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1228",
+        "SUBTIPO": "Moto X Muro"
+    },
+    {
+        "ITEM": "122",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1229",
+        "SUBTIPO": "Moto X Poste"
+    },
+    {
+        "ITEM": "123",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1230",
+        "SUBTIPO": "Moto X Outros"
+    },
+    {
+        "ITEM": "124",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1231",
+        "SUBTIPO": "Ônibus X Bicicleta"
+    },
+    {
+        "ITEM": "125",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1232",
+        "SUBTIPO": "Ônibus X Caminhão"
+    },
+    {
+        "ITEM": "126",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1233",
+        "SUBTIPO": "Ônibus X Carroça"
+    },
+    {
+        "ITEM": "127",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1234",
+        "SUBTIPO": "Ônibus X Moto"
+    },
+    {
+        "ITEM": "128",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1235",
+        "SUBTIPO": "Ônibus X Muro"
+    },
+    {
+        "ITEM": "129",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1236",
+        "SUBTIPO": "Ônibus X Ônibus"
+    },
+    {
+        "ITEM": "130",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1237",
+        "SUBTIPO": "Ônibus X Poste"
+    },
+    {
+        "ITEM": "131",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1238",
+        "SUBTIPO": "Ônibus X Van"
+    },
+    {
+        "ITEM": "132",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1239",
+        "SUBTIPO": "Ônibus X Outros"
+    },
+    {
+        "ITEM": "133",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1240",
+        "SUBTIPO": "Van X Bicicleta"
+    },
+    {
+        "ITEM": "134",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1241",
+        "SUBTIPO": "Van X Caminhão"
+    },
+    {
+        "ITEM": "135",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1242",
+        "SUBTIPO": "Van X Moto"
+    },
+    {
+        "ITEM": "136",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1243",
+        "SUBTIPO": "Van X Muro"
+    },
+    {
+        "ITEM": "137",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1244",
+        "SUBTIPO": "Van X Poste"
+    },
+    {
+        "ITEM": "138",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1245",
+        "SUBTIPO": "Van X Van"
+    },
+    {
+        "ITEM": "139",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1246",
+        "SUBTIPO": "Van X Outros"
+    },
+    {
+        "ITEM": "140",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1247",
+        "SUBTIPO": "VLT X Bicicleta"
+    },
+    {
+        "ITEM": "141",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1248",
+        "SUBTIPO": "VLT X Moto"
+    },
+    {
+        "ITEM": "142",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1249",
+        "SUBTIPO": "VLT X Muro"
+    },
+    {
+        "ITEM": "143",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1250",
+        "SUBTIPO": "VLT X Poste"
+    },
+    {
+        "ITEM": "144",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1251",
+        "SUBTIPO": "VLT X VLT"
+    },
+    {
+        "ITEM": "145",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1252",
+        "SUBTIPO": "VLT X Outros"
+    },
+    {
+        "ITEM": "146",
+        "ID_TIPO": "A1200",
+        "TIPO": "Colisão de Veículos",
+        "ID_SUBTIPO": "A1299",
+        "SUBTIPO": "Outros X Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "147",
+        "ID_TIPO": "A1300",
+        "TIPO": "Combate a Inseto",
+        "ID_SUBTIPO": "A1301",
+        "SUBTIPO": "De Abelhas"
+    },
+    {
+        "ITEM": "148",
+        "ID_TIPO": "A1300",
+        "TIPO": "Combate a Inseto",
+        "ID_SUBTIPO": "A1302",
+        "SUBTIPO": "De Vespas/Marimbondos"
+    },
+    {
+        "ITEM": "149",
+        "ID_TIPO": "A1400",
+        "TIPO": "Constatação de Óbito",
+        "ID_SUBTIPO": "A1401",
+        "SUBTIPO": "Já em Óbito - Em Domicílio"
+    },
+    {
+        "ITEM": "150",
+        "ID_TIPO": "A1400",
+        "TIPO": "Constatação de Óbito",
+        "ID_SUBTIPO": "A1402",
+        "SUBTIPO": "Já em Óbito - Em Via Pública"
+    },
+    {
+        "ITEM": "151",
+        "ID_TIPO": "A1400",
+        "TIPO": "Constatação de Óbito",
+        "ID_SUBTIPO": "A1499",
+        "SUBTIPO": "Já em Óbito - Em Outros Estabelecimentos"
+    },
+    {
+        "ITEM": "152",
+        "ID_TIPO": "A1500",
+        "TIPO": "Corte de Árvore",
+        "ID_SUBTIPO": "A1501",
+        "SUBTIPO": "Risco Iminente de Queda"
+    },
+    {
+        "ITEM": "153",
+        "ID_TIPO": "A1500",
+        "TIPO": "Corte de Árvore",
+        "ID_SUBTIPO": "A1502",
+        "SUBTIPO": "Caída em Vias Públicas"
+    },
+    {
+        "ITEM": "154",
+        "ID_TIPO": "A1500",
+        "TIPO": "Corte de Árvore",
+        "ID_SUBTIPO": "A1503",
+        "SUBTIPO": "Caída Sobre Edificações (Casas, Muros, etc)"
+    },
+    {
+        "ITEM": "155",
+        "ID_TIPO": "A1500",
+        "TIPO": "Corte de Árvore",
+        "ID_SUBTIPO": "A1504",
+        "SUBTIPO": "Caída sobre Veículos (Sem Vítimas)"
+    },
+    {
+        "ITEM": "156",
+        "ID_TIPO": "A1500",
+        "TIPO": "Corte de Árvore",
+        "ID_SUBTIPO": "A1599",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "157",
+        "ID_TIPO": "A1600",
+        "TIPO": "Denúncia",
+        "ID_SUBTIPO": "A1601",
+        "SUBTIPO": "Relativa ao CBMERJ"
+    },
+    {
+        "ITEM": "158",
+        "ID_TIPO": "A1600",
+        "TIPO": "Denúncia",
+        "ID_SUBTIPO": "A1602",
+        "SUBTIPO": "Relativa ao SAMU"
+    },
+    {
+        "ITEM": "159",
+        "ID_TIPO": "A1700",
+        "TIPO": "Descarrilhamento/Acidente Ferroviário",
+        "ID_SUBTIPO": "A1701",
+        "SUBTIPO": "Metrô"
+    },
+    {
+        "ITEM": "160",
+        "ID_TIPO": "A1700",
+        "TIPO": "Descarrilhamento/Acidente Ferroviário",
+        "ID_SUBTIPO": "A1702",
+        "SUBTIPO": "Trem"
+    },
+    {
+        "ITEM": "161",
+        "ID_TIPO": "A1700",
+        "TIPO": "Descarrilhamento/Acidente Ferroviário",
+        "ID_SUBTIPO": "A1703",
+        "SUBTIPO": "VLT"
+    },
+    {
+        "ITEM": "162",
+        "ID_TIPO": "A1700",
+        "TIPO": "Descarrilhamento/Acidente Ferroviário",
+        "ID_SUBTIPO": "A1704",
+        "SUBTIPO": "Envolvendo Cargas"
+    },
+    {
+        "ITEM": "163",
+        "ID_TIPO": "A1800",
+        "TIPO": "Deslizamento/Desabamento",
+        "ID_SUBTIPO": "A1801",
+        "SUBTIPO": "Ameaça de Desabamento"
+    },
+    {
+        "ITEM": "164",
+        "ID_TIPO": "A1800",
+        "TIPO": "Deslizamento/Desabamento",
+        "ID_SUBTIPO": "A1802",
+        "SUBTIPO": "Ameaça de Deslizamento"
+    },
+    {
+        "ITEM": "165",
+        "ID_TIPO": "A1800",
+        "TIPO": "Deslizamento/Desabamento",
+        "ID_SUBTIPO": "A1803",
+        "SUBTIPO": "Desabamento de Edificação"
+    },
+    {
+        "ITEM": "166",
+        "ID_TIPO": "A1800",
+        "TIPO": "Deslizamento/Desabamento",
+        "ID_SUBTIPO": "A1804",
+        "SUBTIPO": "Desabamento de Marquise"
+    },
+    {
+        "ITEM": "167",
+        "ID_TIPO": "A1800",
+        "TIPO": "Deslizamento/Desabamento",
+        "ID_SUBTIPO": "A1805",
+        "SUBTIPO": "Desabamento de Passarela"
+    },
+    {
+        "ITEM": "168",
+        "ID_TIPO": "A1800",
+        "TIPO": "Deslizamento/Desabamento",
+        "ID_SUBTIPO": "A1806",
+        "SUBTIPO": "Desabamento de Viaduto"
+    },
+    {
+        "ITEM": "169",
+        "ID_TIPO": "A1800",
+        "TIPO": "Deslizamento/Desabamento",
+        "ID_SUBTIPO": "A1807",
+        "SUBTIPO": "Deslizamento de Terra"
+    },
+    {
+        "ITEM": "170",
+        "ID_TIPO": "A1800",
+        "TIPO": "Deslizamento/Desabamento",
+        "ID_SUBTIPO": "A1899",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "171",
+        "ID_TIPO": "A1900",
+        "TIPO": "Escapamento de Gás",
+        "ID_SUBTIPO": "A1901",
+        "SUBTIPO": "Em Edificação Comercial"
+    },
+    {
+        "ITEM": "172",
+        "ID_TIPO": "A1900",
+        "TIPO": "Escapamento de Gás",
+        "ID_SUBTIPO": "A1902",
+        "SUBTIPO": "Em Edificação Residencial"
+    },
+    {
+        "ITEM": "173",
+        "ID_TIPO": "A1900",
+        "TIPO": "Escapamento de Gás",
+        "ID_SUBTIPO": "A1903",
+        "SUBTIPO": "Em Posto de Abastecimento"
+    },
+    {
+        "ITEM": "174",
+        "ID_TIPO": "A1900",
+        "TIPO": "Escapamento de Gás",
+        "ID_SUBTIPO": "A1904",
+        "SUBTIPO": "Em Veículo"
+    },
+    {
+        "ITEM": "175",
+        "ID_TIPO": "A1900",
+        "TIPO": "Escapamento de Gás",
+        "ID_SUBTIPO": "A1905",
+        "SUBTIPO": "Em Via Pública"
+    },
+    {
+        "ITEM": "176",
+        "ID_TIPO": "A1900",
+        "TIPO": "Escapamento de Gás",
+        "ID_SUBTIPO": "A1999",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "177",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2001",
+        "SUBTIPO": "A ser definido pelo Profissional de Saúde"
+    },
+    {
+        "ITEM": "178",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2002",
+        "SUBTIPO": "Alergia/Anafilaxia"
+    },
+    {
+        "ITEM": "179",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2003",
+        "SUBTIPO": "Alteração do Nível de Consciência"
+    },
+    {
+        "ITEM": "180",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2004",
+        "SUBTIPO": "Cefaleia"
+    },
+    {
+        "ITEM": "181",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2005",
+        "SUBTIPO": "Crise Convulsiva"
+    },
+    {
+        "ITEM": "182",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2006",
+        "SUBTIPO": "Déficit Sensitivo-Motor"
+    },
+    {
+        "ITEM": "183",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2007",
+        "SUBTIPO": "Desmaio/ Síncope"
+    },
+    {
+        "ITEM": "184",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2008",
+        "SUBTIPO": "Diarreia"
+    },
+    {
+        "ITEM": "185",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2009",
+        "SUBTIPO": "Dispneia"
+    },
+    {
+        "ITEM": "186",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2010",
+        "SUBTIPO": "Distúrbio hidroeletrolítico/desidratação"
+    },
+    {
+        "ITEM": "187",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2011",
+        "SUBTIPO": "Distúrbios do trato urinário"
+    },
+    {
+        "ITEM": "188",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2012",
+        "SUBTIPO": "Dor Abdominal"
+    },
+    {
+        "ITEM": "189",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2013",
+        "SUBTIPO": "Dor em membros"
+    },
+    {
+        "ITEM": "190",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2014",
+        "SUBTIPO": "Dor nas Costas"
+    },
+    {
+        "ITEM": "191",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2015",
+        "SUBTIPO": "Dor no Tórax"
+    },
+    {
+        "ITEM": "192",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2016",
+        "SUBTIPO": "Dor Torácica (< 2 horas)"
+    },
+    {
+        "ITEM": "193",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2017",
+        "SUBTIPO": "Dor Torácica (> 2 horas)"
+    },
+    {
+        "ITEM": "194",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2018",
+        "SUBTIPO": "Febre"
+    },
+    {
+        "ITEM": "195",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2019",
+        "SUBTIPO": "Hemorragia Não Traumática"
+    },
+    {
+        "ITEM": "196",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2020",
+        "SUBTIPO": "Hipoglicemia/Hiperglicemia"
+    },
+    {
+        "ITEM": "197",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2021",
+        "SUBTIPO": "Náuseas/Vômitos"
+    },
+    {
+        "ITEM": "198",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2022",
+        "SUBTIPO": "Obstrução de Vias Aéreas por Corpo Estranho (OVACE)"
+    },
+    {
+        "ITEM": "199",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2023",
+        "SUBTIPO": "Olhos/Ouvidos/Nariz/Garganta"
+    },
+    {
+        "ITEM": "200",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2024",
+        "SUBTIPO": "Parada Cardiorrespiratória (PCR)"
+    },
+    {
+        "ITEM": "201",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2025",
+        "SUBTIPO": "Recém-Nascido"
+    },
+    {
+        "ITEM": "202",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2026",
+        "SUBTIPO": "Tonteira/ Vertigem"
+    },
+    {
+        "ITEM": "203",
+        "ID_TIPO": "A2000",
+        "TIPO": "Eventos Clínicos",
+        "ID_SUBTIPO": "A2099",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "204",
+        "ID_TIPO": "A2100",
+        "TIPO": "Eventos Especiais",
+        "ID_SUBTIPO": "A2101",
+        "SUBTIPO": "Auxílio Técnico"
+    },
+    {
+        "ITEM": "205",
+        "ID_TIPO": "A2100",
+        "TIPO": "Eventos Especiais",
+        "ID_SUBTIPO": "A2102",
+        "SUBTIPO": "Corrida de Área"
+    },
+    {
+        "ITEM": "206",
+        "ID_TIPO": "A2100",
+        "TIPO": "Eventos Especiais",
+        "ID_SUBTIPO": "A2103",
+        "SUBTIPO": "Desfile Cívico-Militar"
+    },
+    {
+        "ITEM": "207",
+        "ID_TIPO": "A2100",
+        "TIPO": "Eventos Especiais",
+        "ID_SUBTIPO": "A2104",
+        "SUBTIPO": "Perícia de Incêndio/Explosão"
+    },
+    {
+        "ITEM": "208",
+        "ID_TIPO": "A2100",
+        "TIPO": "Eventos Especiais",
+        "ID_SUBTIPO": "A2105",
+        "SUBTIPO": "Perícia de acidentes com viaturas"
+    },
+    {
+        "ITEM": "209",
+        "ID_TIPO": "A2100",
+        "TIPO": "Eventos Especiais",
+        "ID_SUBTIPO": "A2106",
+        "SUBTIPO": "Prevenção"
+    },
+    {
+        "ITEM": "210",
+        "ID_TIPO": "A2100",
+        "TIPO": "Eventos Especiais",
+        "ID_SUBTIPO": "A2107",
+        "SUBTIPO": "Simulado"
+    },
+    {
+        "ITEM": "211",
+        "ID_TIPO": "A2100",
+        "TIPO": "Eventos Especiais",
+        "ID_SUBTIPO": "A2199",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "212",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2201",
+        "SUBTIPO": "Em Bancos/Caixas Eletrônicos"
+    },
+    {
+        "ITEM": "213",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2202",
+        "SUBTIPO": "Em Casas De Show/Boate"
+    },
+    {
+        "ITEM": "214",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2203",
+        "SUBTIPO": "Em Cinemas/Teatros"
+    },
+    {
+        "ITEM": "215",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2204",
+        "SUBTIPO": "Em Depósitos/Galpões"
+    },
+    {
+        "ITEM": "216",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2205",
+        "SUBTIPO": "Em Edificações Residenciais"
+    },
+    {
+        "ITEM": "217",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2206",
+        "SUBTIPO": "Em Estabelecimentos de Ensino (Escolas, Universidades, etc.)"
+    },
+    {
+        "ITEM": "218",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2207",
+        "SUBTIPO": "Em Garagem"
+    },
+    {
+        "ITEM": "219",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2208",
+        "SUBTIPO": "Em Hospital (Unidades de Saúde, Laboratórios, etc.)"
+    },
+    {
+        "ITEM": "220",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2209",
+        "SUBTIPO": "Em Indústrias"
+    },
+    {
+        "ITEM": "221",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2210",
+        "SUBTIPO": "Em Órgãos Públicos (Quartéis, Tribunais, Embaixadas, etc.)"
+    },
+    {
+        "ITEM": "222",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2211",
+        "SUBTIPO": "Em Restaurante/Bar"
+    },
+    {
+        "ITEM": "223",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2212",
+        "SUBTIPO": "Em Shopping"
+    },
+    {
+        "ITEM": "224",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2213",
+        "SUBTIPO": "Em Templos Religiosos"
+    },
+    {
+        "ITEM": "225",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2214",
+        "SUBTIPO": "Em Veículo"
+    },
+    {
+        "ITEM": "226",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2215",
+        "SUBTIPO": "Em Via Pública"
+    },
+    {
+        "ITEM": "227",
+        "ID_TIPO": "A2200",
+        "TIPO": "Explosão",
+        "ID_SUBTIPO": "A2299",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "228",
+        "ID_TIPO": "A0000",
+        "TIPO": "Falso Aviso",
+        "ID_SUBTIPO": "A0001",
+        "SUBTIPO": "Incêndio"
+    },
+    {
+        "ITEM": "229",
+        "ID_TIPO": "A0000",
+        "TIPO": "Falso Aviso",
+        "ID_SUBTIPO": "A0002",
+        "SUBTIPO": "Salvamento"
+    },
+    {
+        "ITEM": "230",
+        "ID_TIPO": "A0000",
+        "TIPO": "Falso Aviso",
+        "ID_SUBTIPO": "A0003",
+        "SUBTIPO": "APH"
+    },
+    {
+        "ITEM": "231",
+        "ID_TIPO": "A2300",
+        "TIPO": "Fogo em Vegetação",
+        "ID_SUBTIPO": "A2301",
+        "SUBTIPO": "Em Áreas Protegidas (Parques, Reservas, APA, etc.)"
+    },
+    {
+        "ITEM": "232",
+        "ID_TIPO": "A2300",
+        "TIPO": "Fogo em Vegetação",
+        "ID_SUBTIPO": "A2302",
+        "SUBTIPO": "Em Áreas Não Protegidas (Terrenos baldios, vegetação em geral, etc.)"
+    },
+    {
+        "ITEM": "233",
+        "ID_TIPO": "A2400",
+        "TIPO": "Fogo em Veículo",
+        "ID_SUBTIPO": "A2401",
+        "SUBTIPO": "Aeronave"
+    },
+    {
+        "ITEM": "234",
+        "ID_TIPO": "A2400",
+        "TIPO": "Fogo em Veículo",
+        "ID_SUBTIPO": "A2402",
+        "SUBTIPO": "Automóvel"
+    },
+    {
+        "ITEM": "235",
+        "ID_TIPO": "A2400",
+        "TIPO": "Fogo em Veículo",
+        "ID_SUBTIPO": "A2403",
+        "SUBTIPO": "BRT"
+    },
+    {
+        "ITEM": "236",
+        "ID_TIPO": "A2400",
+        "TIPO": "Fogo em Veículo",
+        "ID_SUBTIPO": "A2404",
+        "SUBTIPO": "Caminhão"
+    },
+    {
+        "ITEM": "237",
+        "ID_TIPO": "A2400",
+        "TIPO": "Fogo em Veículo",
+        "ID_SUBTIPO": "A2405",
+        "SUBTIPO": "Embarcação"
+    },
+    {
+        "ITEM": "238",
+        "ID_TIPO": "A2400",
+        "TIPO": "Fogo em Veículo",
+        "ID_SUBTIPO": "A2406",
+        "SUBTIPO": "Metrô"
+    },
+    {
+        "ITEM": "239",
+        "ID_TIPO": "A2400",
+        "TIPO": "Fogo em Veículo",
+        "ID_SUBTIPO": "A2407",
+        "SUBTIPO": "Moto e similares"
+    },
+    {
+        "ITEM": "240",
+        "ID_TIPO": "A2400",
+        "TIPO": "Fogo em Veículo",
+        "ID_SUBTIPO": "A2408",
+        "SUBTIPO": "Ônibus"
+    },
+    {
+        "ITEM": "241",
+        "ID_TIPO": "A2400",
+        "TIPO": "Fogo em Veículo",
+        "ID_SUBTIPO": "A2409",
+        "SUBTIPO": "Trem"
+    },
+    {
+        "ITEM": "242",
+        "ID_TIPO": "A2400",
+        "TIPO": "Fogo em Veículo",
+        "ID_SUBTIPO": "A2410",
+        "SUBTIPO": "Van"
+    },
+    {
+        "ITEM": "243",
+        "ID_TIPO": "A2400",
+        "TIPO": "Fogo em Veículo",
+        "ID_SUBTIPO": "A2499",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "244",
+        "ID_TIPO": "A2500",
+        "TIPO": "Fogo em Via Pública",
+        "ID_SUBTIPO": "A2501",
+        "SUBTIPO": "Em Galerias Subterrâneas (Bueiros, etc.)"
+    },
+    {
+        "ITEM": "245",
+        "ID_TIPO": "A2500",
+        "TIPO": "Fogo em Via Pública",
+        "ID_SUBTIPO": "A2502",
+        "SUBTIPO": "Em Postes/Transformadores"
+    },
+    {
+        "ITEM": "246",
+        "ID_TIPO": "A2500",
+        "TIPO": "Fogo em Via Pública",
+        "ID_SUBTIPO": "A2503",
+        "SUBTIPO": "Em Lixo/Lixeiras"
+    },
+    {
+        "ITEM": "247",
+        "ID_TIPO": "A2500",
+        "TIPO": "Fogo em Via Pública",
+        "ID_SUBTIPO": "A2599",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "248",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2601",
+        "SUBTIPO": "A ser definido pelo Profissional de Saúde"
+    },
+    {
+        "ITEM": "249",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2602",
+        "SUBTIPO": "Abortamento Espontâneo (< 22 semanas)"
+    },
+    {
+        "ITEM": "250",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2603",
+        "SUBTIPO": "Assistência ao Parto Consumado (> 22 semanas)"
+    },
+    {
+        "ITEM": "251",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2604",
+        "SUBTIPO": "Assistência ao Trabalho de Parto (> 22 semanas)"
+    },
+    {
+        "ITEM": "252",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2605",
+        "SUBTIPO": "Cefaleia, tontura e vertigem na gestante"
+    },
+    {
+        "ITEM": "253",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2606",
+        "SUBTIPO": "Desmaio e Síncope na gestante"
+    },
+    {
+        "ITEM": "254",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2607",
+        "SUBTIPO": "Dispneia na gestante"
+    },
+    {
+        "ITEM": "255",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2608",
+        "SUBTIPO": "Dor abdominal/lombar/contrações uterinas"
+    },
+    {
+        "ITEM": "256",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2609",
+        "SUBTIPO": "Febre/sinais de infecção na gestante"
+    },
+    {
+        "ITEM": "257",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2610",
+        "SUBTIPO": "Hemorragia Gestacional"
+    },
+    {
+        "ITEM": "258",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2611",
+        "SUBTIPO": "Hemorragia Ginecológica"
+    },
+    {
+        "ITEM": "259",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2612",
+        "SUBTIPO": "Hemorragia Puerperal (após o parto)"
+    },
+    {
+        "ITEM": "260",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2613",
+        "SUBTIPO": "Mal-estar geral na gestante"
+    },
+    {
+        "ITEM": "261",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2614",
+        "SUBTIPO": "Náuseas/Vômitos na gestante"
+    },
+    {
+        "ITEM": "262",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2615",
+        "SUBTIPO": "Perda de líquido ou secreções por via vaginal na gestante"
+    },
+    {
+        "ITEM": "263",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2616",
+        "SUBTIPO": "Pré-eclâmpsia e Eclâmpsia (> 20 semanas)"
+    },
+    {
+        "ITEM": "264",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2617",
+        "SUBTIPO": "Queixas urinárias na gestante"
+    },
+    {
+        "ITEM": "265",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2618",
+        "SUBTIPO": "Relato de Convulsão na gestante"
+    },
+    {
+        "ITEM": "266",
+        "ID_TIPO": "A2600",
+        "TIPO": "Ginecologia e Obstetrícia",
+        "ID_SUBTIPO": "A2699",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "267",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2701",
+        "SUBTIPO": "Em Bancos/Caixas Eletrônicos"
+    },
+    {
+        "ITEM": "268",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2702",
+        "SUBTIPO": "Em Casas De Show/Boate"
+    },
+    {
+        "ITEM": "269",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2703",
+        "SUBTIPO": "Em Cinemas/Teatros"
+    },
+    {
+        "ITEM": "270",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2704",
+        "SUBTIPO": "Em Depósitos/Galpões"
+    },
+    {
+        "ITEM": "271",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2705",
+        "SUBTIPO": "Em Edificações Residenciais"
+    },
+    {
+        "ITEM": "272",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2706",
+        "SUBTIPO": "Em Estabelecimentos De Ensino (Escolas, Universidades, etc.)"
+    },
+    {
+        "ITEM": "273",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2707",
+        "SUBTIPO": "Em Garagem"
+    },
+    {
+        "ITEM": "274",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2708",
+        "SUBTIPO": "Em Hospital (Unidades de Saúde, Laboratórios, etc.)"
+    },
+    {
+        "ITEM": "275",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2709",
+        "SUBTIPO": "Em Indústrias"
+    },
+    {
+        "ITEM": "276",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2710",
+        "SUBTIPO": "Em Órgãos Públicos (Quartéis, Tribunais, Embaixadas, etc.)"
+    },
+    {
+        "ITEM": "277",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2711",
+        "SUBTIPO": "Em Restaurante/Bar"
+    },
+    {
+        "ITEM": "278",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2712",
+        "SUBTIPO": "Em Shopping"
+    },
+    {
+        "ITEM": "279",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2713",
+        "SUBTIPO": "Em Templos Religiosos"
+    },
+    {
+        "ITEM": "280",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2714",
+        "SUBTIPO": "Em Veículo"
+    },
+    {
+        "ITEM": "281",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2715",
+        "SUBTIPO": "Em Via Pública"
+    },
+    {
+        "ITEM": "282",
+        "ID_TIPO": "A2700",
+        "TIPO": "Incêndio",
+        "ID_SUBTIPO": "A2799",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "283",
+        "ID_TIPO": "A2800",
+        "TIPO": "Inundação/Alagamento",
+        "ID_SUBTIPO": "A2801",
+        "SUBTIPO": "Alagamento (Ruas, Garagens, Casas, Tubulações Rompidas, etc.)"
+    },
+    {
+        "ITEM": "284",
+        "ID_TIPO": "A2800",
+        "TIPO": "Inundação/Alagamento",
+        "ID_SUBTIPO": "A2802",
+        "SUBTIPO": "Inundação Fluvial (Cheia de Rios, Lagos, etc.)"
+    },
+    {
+        "ITEM": "285",
+        "ID_TIPO": "A2900",
+        "TIPO": "Negligência/Violência Doméstica/ Maus Tratos",
+        "ID_SUBTIPO": "A2901",
+        "SUBTIPO": "Em Bebês (0 a 1 ano de idade)"
+    },
+    {
+        "ITEM": "286",
+        "ID_TIPO": "A2900",
+        "TIPO": "Negligência/Violência Doméstica/ Maus Tratos",
+        "ID_SUBTIPO": "A2902",
+        "SUBTIPO": "Em Crianças (1 a 12 anos de idade)"
+    },
+    {
+        "ITEM": "287",
+        "ID_TIPO": "A2900",
+        "TIPO": "Negligência/Violência Doméstica/ Maus Tratos",
+        "ID_SUBTIPO": "A2903",
+        "SUBTIPO": "Em Adolescentes (12 a 17 anos de idade)"
+    },
+    {
+        "ITEM": "288",
+        "ID_TIPO": "A2900",
+        "TIPO": "Negligência/Violência Doméstica/ Maus Tratos",
+        "ID_SUBTIPO": "A2904",
+        "SUBTIPO": "Em Adultos"
+    },
+    {
+        "ITEM": "289",
+        "ID_TIPO": "A2900",
+        "TIPO": "Negligência/Violência Doméstica/ Maus Tratos",
+        "ID_SUBTIPO": "A2999",
+        "SUBTIPO": "Em Idosos (> 65 anos de idade)"
+    },
+    {
+        "ITEM": "290",
+        "ID_TIPO": "A3000",
+        "TIPO": "Operações Subaquáticas",
+        "ID_SUBTIPO": "A3001",
+        "SUBTIPO": "Busca de Aeronaves"
+    },
+    {
+        "ITEM": "291",
+        "ID_TIPO": "A3000",
+        "TIPO": "Operações Subaquáticas",
+        "ID_SUBTIPO": "A3002",
+        "SUBTIPO": "Busca de Bens"
+    },
+    {
+        "ITEM": "292",
+        "ID_TIPO": "A3000",
+        "TIPO": "Operações Subaquáticas",
+        "ID_SUBTIPO": "A3003",
+        "SUBTIPO": "Busca de Pessoa Subaquática"
+    },
+    {
+        "ITEM": "293",
+        "ID_TIPO": "A3000",
+        "TIPO": "Operações Subaquáticas",
+        "ID_SUBTIPO": "A3004",
+        "SUBTIPO": "Busca de Pessoa Superficial"
+    },
+    {
+        "ITEM": "294",
+        "ID_TIPO": "A3000",
+        "TIPO": "Operações Subaquáticas",
+        "ID_SUBTIPO": "A3005",
+        "SUBTIPO": "Busca de Embarcações"
+    },
+    {
+        "ITEM": "295",
+        "ID_TIPO": "A3000",
+        "TIPO": "Operações Subaquáticas",
+        "ID_SUBTIPO": "A3006",
+        "SUBTIPO": "Busca de Veículos"
+    },
+    {
+        "ITEM": "296",
+        "ID_TIPO": "A3000",
+        "TIPO": "Operações Subaquáticas",
+        "ID_SUBTIPO": "A3007",
+        "SUBTIPO": "Instrução"
+    },
+    {
+        "ITEM": "297",
+        "ID_TIPO": "A3000",
+        "TIPO": "Operações Subaquáticas",
+        "ID_SUBTIPO": "A3008",
+        "SUBTIPO": "Reflutuação"
+    },
+    {
+        "ITEM": "298",
+        "ID_TIPO": "A3000",
+        "TIPO": "Operações Subaquáticas",
+        "ID_SUBTIPO": "A3009",
+        "SUBTIPO": "Resgate de Pessoas"
+    },
+    {
+        "ITEM": "299",
+        "ID_TIPO": "A3000",
+        "TIPO": "Operações Subaquáticas",
+        "ID_SUBTIPO": "A3099",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "300",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3101",
+        "SUBTIPO": "Busca em Lagos, Represas, Rios"
+    },
+    {
+        "ITEM": "301",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3102",
+        "SUBTIPO": "Busca em Matas e Florestas"
+    },
+    {
+        "ITEM": "302",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3103",
+        "SUBTIPO": "Busca no Mar"
+    },
+    {
+        "ITEM": "303",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3104",
+        "SUBTIPO": "Combate a incêndio florestal"
+    },
+    {
+        "ITEM": "304",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3105",
+        "SUBTIPO": "Evacuação Aeromédica"
+    },
+    {
+        "ITEM": "305",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3106",
+        "SUBTIPO": "Instruções CBMERJ"
+    },
+    {
+        "ITEM": "306",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3107",
+        "SUBTIPO": "Monitoramento Ambiental"
+    },
+    {
+        "ITEM": "307",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3108",
+        "SUBTIPO": "Patrulhamento"
+    },
+    {
+        "ITEM": "308",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3109",
+        "SUBTIPO": "Retirada de Cadáver"
+    },
+    {
+        "ITEM": "309",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3110",
+        "SUBTIPO": "Salvamento em altura"
+    },
+    {
+        "ITEM": "310",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3111",
+        "SUBTIPO": "Salvamento em Lagos, Represas, Rios"
+    },
+    {
+        "ITEM": "311",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3112",
+        "SUBTIPO": "Salvamento em Matas e Florestas"
+    },
+    {
+        "ITEM": "312",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3113",
+        "SUBTIPO": "Salvamento no Mar"
+    },
+    {
+        "ITEM": "313",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3114",
+        "SUBTIPO": "TIH Adulto"
+    },
+    {
+        "ITEM": "314",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3115",
+        "SUBTIPO": "TIH Neo-Natal"
+    },
+    {
+        "ITEM": "315",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3116",
+        "SUBTIPO": "Transporte de Órgãos e Tecidos"
+    },
+    {
+        "ITEM": "316",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3117",
+        "SUBTIPO": "Transporte de Tropa"
+    },
+    {
+        "ITEM": "317",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3118",
+        "SUBTIPO": "Vôo Administrativo"
+    },
+    {
+        "ITEM": "318",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3119",
+        "SUBTIPO": "Vôo de Check"
+    },
+    {
+        "ITEM": "319",
+        "ID_TIPO": "A3100",
+        "TIPO": "Operações Aéreas",
+        "ID_SUBTIPO": "A3199",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "320",
+        "ID_TIPO": "A3200",
+        "TIPO": "Queda de Pessoa",
+        "ID_SUBTIPO": "A3201",
+        "SUBTIPO": "Da Própria Altura"
+    },
+    {
+        "ITEM": "321",
+        "ID_TIPO": "A3200",
+        "TIPO": "Queda de Pessoa",
+        "ID_SUBTIPO": "A3202",
+        "SUBTIPO": "Da Bicicleta"
+    },
+    {
+        "ITEM": "322",
+        "ID_TIPO": "A3200",
+        "TIPO": "Queda de Pessoa",
+        "ID_SUBTIPO": "A3203",
+        "SUBTIPO": "Em Ferrovias"
+    },
+    {
+        "ITEM": "323",
+        "ID_TIPO": "A3200",
+        "TIPO": "Queda de Pessoa",
+        "ID_SUBTIPO": "A3204",
+        "SUBTIPO": "Em Rodoviário"
+    },
+    {
+        "ITEM": "324",
+        "ID_TIPO": "A3200",
+        "TIPO": "Queda de Pessoa",
+        "ID_SUBTIPO": "A3205",
+        "SUBTIPO": "De Altura Inferior a 3m"
+    },
+    {
+        "ITEM": "325",
+        "ID_TIPO": "A3200",
+        "TIPO": "Queda de Pessoa",
+        "ID_SUBTIPO": "A3206",
+        "SUBTIPO": "De Altura Superior a 3m"
+    },
+    {
+        "ITEM": "326",
+        "ID_TIPO": "A3200",
+        "TIPO": "Queda de Pessoa",
+        "ID_SUBTIPO": "A3299",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "327",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3301",
+        "SUBTIPO": "Queda de Asa Delta"
+    },
+    {
+        "ITEM": "328",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3302",
+        "SUBTIPO": "Queda de Automóvel"
+    },
+    {
+        "ITEM": "329",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3303",
+        "SUBTIPO": "Queda de Avião"
+    },
+    {
+        "ITEM": "330",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3304",
+        "SUBTIPO": "Queda de BRT"
+    },
+    {
+        "ITEM": "331",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3305",
+        "SUBTIPO": "Queda de Caminhão"
+    },
+    {
+        "ITEM": "332",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3306",
+        "SUBTIPO": "Queda de Helicóptero"
+    },
+    {
+        "ITEM": "333",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3307",
+        "SUBTIPO": "Queda de Moto"
+    },
+    {
+        "ITEM": "334",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3308",
+        "SUBTIPO": "Queda de Ônibus"
+    },
+    {
+        "ITEM": "335",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3309",
+        "SUBTIPO": "Queda de Parapente"
+    },
+    {
+        "ITEM": "336",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3310",
+        "SUBTIPO": "Queda de Van"
+    },
+    {
+        "ITEM": "337",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3398",
+        "SUBTIPO": "Outros Tipos de Veículos Aéreos (especificar na observação)"
+    },
+    {
+        "ITEM": "338",
+        "ID_TIPO": "A3300",
+        "TIPO": "Queda de Veículo",
+        "ID_SUBTIPO": "A3399",
+        "SUBTIPO": "Outros Tipos de Veículos Rodoviários (especificar na observação)"
+    },
+    {
+        "ITEM": "339",
+        "ID_TIPO": "A3400",
+        "TIPO": "Queimadura",
+        "ID_SUBTIPO": "A3401",
+        "SUBTIPO": "Queimadura por Fogo"
+    },
+    {
+        "ITEM": "340",
+        "ID_TIPO": "A3400",
+        "TIPO": "Queimadura",
+        "ID_SUBTIPO": "A3402",
+        "SUBTIPO": "Queimadura por Fogos de Artifício"
+    },
+    {
+        "ITEM": "341",
+        "ID_TIPO": "A3400",
+        "TIPO": "Queimadura",
+        "ID_SUBTIPO": "A3403",
+        "SUBTIPO": "Queimadura por Sol"
+    },
+    {
+        "ITEM": "342",
+        "ID_TIPO": "A3400",
+        "TIPO": "Queimadura",
+        "ID_SUBTIPO": "A3404",
+        "SUBTIPO": "Queimadura por substâncias quentes"
+    },
+    {
+        "ITEM": "343",
+        "ID_TIPO": "A3400",
+        "TIPO": "Queimadura",
+        "ID_SUBTIPO": "A3405",
+        "SUBTIPO": "Queimadura por substâncias químicas"
+    },
+    {
+        "ITEM": "344",
+        "ID_TIPO": "A3400",
+        "TIPO": "Queimadura",
+        "ID_SUBTIPO": "A3499",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "345",
+        "ID_TIPO": "RC000",
+        "TIPO": "Recolhimento de Cadáver",
+        "ID_SUBTIPO": "RC001",
+        "SUBTIPO": "Em Via Pública"
+    },
+    {
+        "ITEM": "346",
+        "ID_TIPO": "RC000",
+        "TIPO": "Recolhimento de Cadáver",
+        "ID_SUBTIPO": "RC002",
+        "SUBTIPO": "Em Residência"
+    },
+    {
+        "ITEM": "347",
+        "ID_TIPO": "RC000",
+        "TIPO": "Recolhimento de Cadáver",
+        "ID_SUBTIPO": "RC003",
+        "SUBTIPO": "Em Hospitais"
+    },
+    {
+        "ITEM": "348",
+        "ID_TIPO": "RC000",
+        "TIPO": "Recolhimento de Cadáver",
+        "ID_SUBTIPO": "RC004",
+        "SUBTIPO": "Baseamento"
+    },
+    {
+        "ITEM": "349",
+        "ID_TIPO": "RC000",
+        "TIPO": "Recolhimento de Cadáver",
+        "ID_SUBTIPO": "RC005",
+        "SUBTIPO": "Despojo (Recolhimento de partes do corpo)"
+    },
+    {
+        "ITEM": "350",
+        "ID_TIPO": "RC000",
+        "TIPO": "Recolhimento de Cadáver",
+        "ID_SUBTIPO": "RC006",
+        "SUBTIPO": "Exumação"
+    },
+    {
+        "ITEM": "351",
+        "ID_TIPO": "RC000",
+        "TIPO": "Recolhimento de Cadáver",
+        "ID_SUBTIPO": "RC007",
+        "SUBTIPO": "Inumação"
+    },
+    {
+        "ITEM": "352",
+        "ID_TIPO": "RC000",
+        "TIPO": "Recolhimento de Cadáver",
+        "ID_SUBTIPO": "RC008",
+        "SUBTIPO": "Translado de Cadáver"
+    },
+    {
+        "ITEM": "353",
+        "ID_TIPO": "RC000",
+        "TIPO": "Recolhimento de Cadáver",
+        "ID_SUBTIPO": "RC099",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "354",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3501",
+        "SUBTIPO": "Em Árvores"
+    },
+    {
+        "ITEM": "355",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3502",
+        "SUBTIPO": "Em Cachoeiras"
+    },
+    {
+        "ITEM": "356",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3503",
+        "SUBTIPO": "Em Cavernas"
+    },
+    {
+        "ITEM": "357",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3504",
+        "SUBTIPO": "Em Edificações"
+    },
+    {
+        "ITEM": "358",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3505",
+        "SUBTIPO": "Em Elevador"
+    },
+    {
+        "ITEM": "359",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3506",
+        "SUBTIPO": "Em Encostas/Montanhas"
+    },
+    {
+        "ITEM": "360",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3507",
+        "SUBTIPO": "Em Escadas"
+    },
+    {
+        "ITEM": "361",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3508",
+        "SUBTIPO": "Em Florestas/Matas/Trilhas"
+    },
+    {
+        "ITEM": "362",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3509",
+        "SUBTIPO": "Em Lagos/Represas/Rios"
+    },
+    {
+        "ITEM": "363",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3510",
+        "SUBTIPO": "Em Piscinas"
+    },
+    {
+        "ITEM": "364",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3511",
+        "SUBTIPO": "Em Poços"
+    },
+    {
+        "ITEM": "365",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3512",
+        "SUBTIPO": "Em Postes"
+    },
+    {
+        "ITEM": "366",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3513",
+        "SUBTIPO": "Em Torres"
+    },
+    {
+        "ITEM": "367",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3514",
+        "SUBTIPO": "Em Vias Publicas"
+    },
+    {
+        "ITEM": "368",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3515",
+        "SUBTIPO": "Tentativa de Suicídio"
+    },
+    {
+        "ITEM": "369",
+        "ID_TIPO": "A3500",
+        "TIPO": "Salvamento de Pessoa",
+        "ID_SUBTIPO": "A3599",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "370",
+        "ID_TIPO": "A3600",
+        "TIPO": "Salvamento Marítimo (Serviço de Guarda-Vidas)",
+        "ID_SUBTIPO": "A3601",
+        "SUBTIPO": "Criança perdida na praia"
+    },
+    {
+        "ITEM": "371",
+        "ID_TIPO": "A3600",
+        "TIPO": "Salvamento Marítimo (Serviço de Guarda-Vidas)",
+        "ID_SUBTIPO": "A3602",
+        "SUBTIPO": "Prevenção na praia"
+    },
+    {
+        "ITEM": "372",
+        "ID_TIPO": "A3600",
+        "TIPO": "Salvamento Marítimo (Serviço de Guarda-Vidas)",
+        "ID_SUBTIPO": "A3603",
+        "SUBTIPO": "Salvamento no mar"
+    },
+    {
+        "ITEM": "373",
+        "ID_TIPO": "A3600",
+        "TIPO": "Salvamento Marítimo (Serviço de Guarda-Vidas)",
+        "ID_SUBTIPO": "A3699",
+        "SUBTIPO": "Outros (especificar na observação)"
+    },
+    {
+        "ITEM": "374",
+        "ID_TIPO": "A3700",
+        "TIPO": "Transporte Inter-Hospitalar",
+        "ID_SUBTIPO": "A3701",
+        "SUBTIPO": "Terrestre - em Bebês (0 a 1 ano de idade)"
+    },
+    {
+        "ITEM": "375",
+        "ID_TIPO": "A3700",
+        "TIPO": "Transporte Inter-Hospitalar",
+        "ID_SUBTIPO": "A3702",
+        "SUBTIPO": "Terrestre - em Crianças (1 a 12 anos de idade)"
+    },
+    {
+        "ITEM": "376",
+        "ID_TIPO": "A3700",
+        "TIPO": "Transporte Inter-Hospitalar",
+        "ID_SUBTIPO": "A3703",
+        "SUBTIPO": "Terrestre - em Adolescentes (12 a 17 anos de idade)"
+    },
+    {
+        "ITEM": "377",
+        "ID_TIPO": "A3700",
+        "TIPO": "Transporte Inter-Hospitalar",
+        "ID_SUBTIPO": "A3704",
+        "SUBTIPO": "Terrestre - em Adultos"
+    },
+    {
+        "ITEM": "378",
+        "ID_TIPO": "A3700",
+        "TIPO": "Transporte Inter-Hospitalar",
+        "ID_SUBTIPO": "A3705",
+        "SUBTIPO": "Terrestre - em Idosos (>65 anos de idade)"
+    },
+    {
+        "ITEM": "379",
+        "ID_TIPO": "A3800",
+        "TIPO": "Transtorno Comportamental",
+        "ID_SUBTIPO": "A3801",
+        "SUBTIPO": "Ausência de inquietação/Ausência de Agressividade/Ausência de Ameaça a integridade (Caso social)"
+    },
+    {
+        "ITEM": "380",
+        "ID_TIPO": "A3800",
+        "TIPO": "Transtorno Comportamental",
+        "ID_SUBTIPO": "A3802",
+        "SUBTIPO": "Inquietação/Agressividade/ameaça a integridade-com ferimentos ou alteração do quadro clínico"
+    },
+    {
+        "ITEM": "381",
+        "ID_TIPO": "A3800",
+        "TIPO": "Transtorno Comportamental",
+        "ID_SUBTIPO": "A3803",
+        "SUBTIPO": "Inquietação/Agressividade/ameaça a integridade-sem ferimentos ou alteração do quadro clínico"
+    },
+    {
+        "ITEM": "382",
+        "ID_TIPO": "A3800",
+        "TIPO": "Transtorno Comportamental",
+        "ID_SUBTIPO": "A3899",
+        "SUBTIPO": "Outros (especificar na observação)"
+    }
+]

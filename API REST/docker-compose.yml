@@ -1,0 +1,30 @@
+version: '3.5'
+
+services:
+  db:
+    image: postgres:11.0
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=database
+    volumes:
+      # copy the sql script to create tables
+      - ./src/sql/create_database.sql:/docker-entrypoint-initdb.d/create_database.sql
+  api:
+    container_name: api
+    restart: always
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - ENVIRONMENT=development
+      - APP_NAME=tcc-api
+      - TYPEORM_HOST=db
+      - TYPEORM_USERNAME=user
+      - TYPEORM_PASSWORD=password
+    volumes:
+      - .:/usr/src/app
+    depends_on:
+      - db
