@@ -27,7 +27,7 @@ Alunos:
 - Jest para testes
 
 # Arquivo 'requirements.txt'
-- [Arquivo 'requirements.txt'](https://github.com/paulusdaco/cefet-proj-constr-sistemas-Snemp-Projeto7/blob/main/SNEMP/requirements.txt)
+- [Arquivo 'requirements.txt'](https://github.com/IsabelaRochaS/tcc-api/blob/master/API%20REST/requirements.txt)
 
 # Procedimento para instalação e configuração da aplicação via docker
 - Baixe o Docker em sua máquina pelo site seguindo o tutorial disponibilizado pelo mesmo:
