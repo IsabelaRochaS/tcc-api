@@ -1,4 +1,4 @@
-# TCC
+# Trabalho de Conclusão de Curso (TCC) - CEFET-RJ - Período 2022.2
 Trabalho de Conclusão de Curso, como projeto final da disciplina "", do Centro Federal de Educação Tecnológica "Celso Suckow da Fonseca", CEFET/RJ, com o Professor Orientador Renato Campos Mauro, M. Sc., pelos alunos Isabela Santos e Paulus Daco.
 
 <p align="center">
@@ -27,7 +27,7 @@ Alunos:
 - Jest para testes
 
 # Arquivo 'requirements.txt'
-- [Arquivo 'requirements.txt'](https://github.com/paulusdaco/cefet-proj-constr-sistemas-Snemp-Projeto7/blob/main/SNEMP/requirements.txt)
+- [Arquivo 'requirements.txt'](https://github.com/IsabelaRochaS/tcc-api/blob/master/API%20REST/requirements.txt)
 
 # Procedimento para instalação e configuração da aplicação via docker
 - Baixe o Docker em sua máquina pelo site seguindo o tutorial disponibilizado pelo mesmo:
