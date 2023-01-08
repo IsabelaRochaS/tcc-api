@@ -1,5 +1,5 @@
 import { ApiResponse, ApiTags } from "@nestjs/swagger";
-import { Controller, Post } from "@nestjs/common";
+import { Controller, Get, Post } from "@nestjs/common";
 import { SubtipoEventoService } from "../services/subtipo-evento.service";
 import { SubtipoEvento } from "../entities/subtipoEvento.entity";
 
@@ -17,27 +17,12 @@ export class SubtipoEventoController {
   public importTipoEvento(): Promise<Partial<SubtipoEvento>[]> {
     return this.subtipoEventoService.injectSubtipoEventoData();
   }
-  //
-  // @ApiResponse({
-  //   status: 200,
-  // })
-  // @ApiQuery({
-  //   name: "codigo",
-  //   type: String,
-  //   description: "codigo do tipo",
-  //   required: false,
-  // })
-  // @ApiQuery({
-  //   name: "tipo",
-  //   type: String,
-  //   description: "nome do tipo de evento",
-  //   required: false,
-  // })
-  // @Get("/getSubtipoEvento")
-  // public getTipoEvento(
-  //   @Query("codigo") codigo?: string,
-  //   @Query("tipo") tipo?: string
-  // ): Promise<Partial<TipoEvento>[]> {
-  //   return this.tipoEventoService.getTipoEvento(codigo, tipo);
-  // }
+
+  @ApiResponse({
+    status: 200,
+  })
+  @Get("/getSubtipoEvento")
+  public getSubtipoEvento(): Promise<Partial<SubtipoEvento>[]> {
+    return this.subtipoEventoService.getAll();
+  }
 }

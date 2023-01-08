@@ -25,6 +25,10 @@ export class SubtipoEventoService {
     return this.subtipoEventoRepository.saveAll(subtipoEvento);
   }
 
+  public async getAll() {
+    return this.subtipoEventoRepository.findAll();
+  }
+
   private async getSubtipoEvento(
     subtipoEventoDtos: SubtipoEventoDto[]
   ): Promise<Partial<SubtipoEvento>[]> {

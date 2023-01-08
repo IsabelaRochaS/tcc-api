@@ -17,8 +17,8 @@ export class TipoEventoService {
     );
 
     const tipoEvento: Partial<TipoEvento>[] = tipoEventoDtos.map(
-      (municipioDto) => {
-        return TipoEventoDto.convert(municipioDto);
+      (tipoEventoDto) => {
+        return TipoEventoDto.convert(tipoEventoDto);
       }
     );
 

@@ -6,6 +6,7 @@ import {
   Repository,
   TransactionManager,
 } from "typeorm";
+import { FindManyOptions } from "typeorm/find-options/FindManyOptions";
 
 export interface IBaseRepositoryController<T> {
   readonly repository: Repository<T>;
@@ -14,6 +15,7 @@ export interface IBaseRepositoryController<T> {
     data: Partial<any>[],
     transactionManager?: EntityManager
   ) => Promise<any & T>;
+  findAllPag: (pag: number, take: number) => Promise<[T[], number]>;
   findById: (id: string) => Promise<T | undefined>;
   findByConditions: (findConditions: FindConditions<any>) => Promise<T[]>;
   findAll: () => Promise<T[]>;
@@ -66,6 +68,16 @@ export function BaseRepositoryController<T>(
 
     public async findAll(): Promise<T[]> {
       return this.repository.find();
+    }
+
+    public async findAllPag(pag: number, take: number): Promise<[T[], number]> {
+      return this.repository.findAndCount({
+        order: {
+          id: "ASC",
+        },
+        skip: pag - 1,
+        take: take,
+      } as FindManyOptions<T>);
     }
 
     public async findByConditions(

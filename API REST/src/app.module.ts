@@ -26,6 +26,10 @@ import { SubtipoEvento } from "./entities/subtipoEvento.entity";
 import { SubtipoEventoController } from "./controller/subtipoEventoController";
 import { SubtipoEventoService } from "./services/subtipo-evento.service";
 import { SubtipoEventoRepository } from "./repository/subtipo-evento.repository";
+import { Evento } from "./entities/evento.entity";
+import { EventoController } from "./controller/eventoController";
+import { EventoService } from "./services/evento.service";
+import { EventoRepository } from "./repository/evento.repository";
 
 @Module({
   imports: [
@@ -37,6 +41,7 @@ import { SubtipoEventoRepository } from "./repository/subtipo-evento.repository"
       Viaturas,
       TipoEvento,
       SubtipoEvento,
+      Evento,
     ]),
     ConfigModule,
     HealthModule,
@@ -48,6 +53,7 @@ import { SubtipoEventoRepository } from "./repository/subtipo-evento.repository"
     OBMFimController,
     TipoEventoController,
     SubtipoEventoController,
+    EventoController,
   ],
   providers: [
     MunicipioService,
@@ -60,6 +66,8 @@ import { SubtipoEventoRepository } from "./repository/subtipo-evento.repository"
     TipoEventoRepository,
     SubtipoEventoService,
     SubtipoEventoRepository,
+    EventoService,
+    EventoRepository,
   ],
 })
 export class AppModule implements OnModuleDestroy {
