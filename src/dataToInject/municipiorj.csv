@@ -1,0 +1,93 @@
+UF,Nome_UF,Região Geográfica Intermediária,Nome Região Geográfica Intermediária,Região Geográfica Imediata,Nome Região Geográfica Imediata,Mesorregião Geográfica,Nome_Mesorregiao,Microrregião Geográfica,Nome_Microrregião,Município,codIBGE,Nome_Municipio
+33,Rio de Janeiro,3301,Rio de Janeiro,330002,Angra dos Reis,05,Sul Fluminense,013,Baía da Ilha Grande,00100,3300100,Angra dos Reis
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330012,Santo Antônio de Pádua,01,Noroeste Fluminense,002,Santo Antônio de Pádua,00159,3300159,Aperibé
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330013,Cabo Frio,04,Baixadas,010,Lagos,00209,3300209,Araruama
+33,Rio de Janeiro,3303,Petrópolis,330007,Petrópolis,03,Centro Fluminense,005,Três Rios,00225,3300225,Areal
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330013,Cabo Frio,04,Baixadas,010,Lagos,00233,3300233,Armação dos Búzios
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330013,Cabo Frio,04,Baixadas,010,Lagos,00258,3300258,Arraial do Cabo
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330004,Volta Redonda - Barra Mansa,05,Sul Fluminense,012,Barra do Piraí,00308,3300308,Barra do Piraí
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330004,Volta Redonda - Barra Mansa,05,Sul Fluminense,011,Vale do Paraíba Fluminense,00407,3300407,Barra Mansa
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,00456,3300456,Belford Roxo
+33,Rio de Janeiro,3303,Petrópolis,330008,Nova Friburgo,03,Centro Fluminense,007,Nova Friburgo,00506,3300506,Bom Jardim
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330011,Itaperuna,01,Noroeste Fluminense,001,Itaperuna,00605,3300605,Bom Jesus do Itabapoana
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330013,Cabo Frio,04,Baixadas,010,Lagos,00704,3300704,Cabo Frio
+33,Rio de Janeiro,3301,Rio de Janeiro,330003,Rio Bonito,06,Metropolitana do Rio de Janeiro,016,Macacu-Caceribu,00803,3300803,Cachoeiras de Macacu
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330012,Santo Antônio de Pádua,01,Noroeste Fluminense,002,Santo Antônio de Pádua,00902,3300902,Cambuci
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330010,Campos dos Goytacazes,02,Norte Fluminense,003,Campos dos Goytacazes,01009,3301009,Campos dos Goytacazes
+33,Rio de Janeiro,3303,Petrópolis,330008,Nova Friburgo,03,Centro Fluminense,006,Cantagalo-Cordeiro,01108,3301108,Cantagalo
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330014,Macaé - Rio das Ostras,02,Norte Fluminense,004,Macaé,00936,3300936,Carapebus
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330010,Campos dos Goytacazes,02,Norte Fluminense,003,Campos dos Goytacazes,01157,3301157,Cardoso Moreira
+33,Rio de Janeiro,3303,Petrópolis,330008,Nova Friburgo,03,Centro Fluminense,006,Cantagalo-Cordeiro,01207,3301207,Carmo
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330014,Macaé - Rio das Ostras,04,Baixadas,009,Bacia de São João,01306,3301306,Casimiro de Abreu
+33,Rio de Janeiro,3303,Petrópolis,330009,Três Rios - Paraíba do Sul,03,Centro Fluminense,005,Três Rios,00951,3300951,Comendador Levy Gasparian
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330014,Macaé - Rio das Ostras,02,Norte Fluminense,004,Macaé,01405,3301405,Conceição de Macabu
+33,Rio de Janeiro,3303,Petrópolis,330008,Nova Friburgo,03,Centro Fluminense,006,Cantagalo-Cordeiro,01504,3301504,Cordeiro
+33,Rio de Janeiro,3303,Petrópolis,330008,Nova Friburgo,03,Centro Fluminense,007,Nova Friburgo,01603,3301603,Duas Barras
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,01702,3301702,Duque de Caxias
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330004,Volta Redonda - Barra Mansa,06,Metropolitana do Rio de Janeiro,014,Vassouras,01801,3301801,Engenheiro Paulo de Frontin
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,01850,3301850,Guapimirim
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330013,Cabo Frio,04,Baixadas,010,Lagos,01876,3301876,Iguaba Grande
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,01900,3301900,Itaboraí
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,017,Itaguaí,02007,3302007,Itaguaí
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330010,Campos dos Goytacazes,01,Noroeste Fluminense,001,Itaperuna,02056,3302056,Italva
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330012,Santo Antônio de Pádua,01,Noroeste Fluminense,002,Santo Antônio de Pádua,02106,3302106,Itaocara
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330011,Itaperuna,01,Noroeste Fluminense,001,Itaperuna,02205,3302205,Itaperuna
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330005,Resende,05,Sul Fluminense,011,Vale do Paraíba Fluminense,02254,3302254,Itatiaia
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,02270,3302270,Japeri
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330011,Itaperuna,01,Noroeste Fluminense,001,Itaperuna,02304,3302304,Laje do Muriaé
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330014,Macaé - Rio das Ostras,02,Norte Fluminense,004,Macaé,02403,3302403,Macaé
+33,Rio de Janeiro,3303,Petrópolis,330008,Nova Friburgo,03,Centro Fluminense,006,Cantagalo-Cordeiro,02452,3302452,Macuco
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,02502,3302502,Magé
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,017,Itaguaí,02601,3302601,Mangaratiba
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,02700,3302700,Maricá
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330004,Volta Redonda - Barra Mansa,06,Metropolitana do Rio de Janeiro,014,Vassouras,02809,3302809,Mendes
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,02858,3302858,Mesquita
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330006,Valença,06,Metropolitana do Rio de Janeiro,014,Vassouras,02908,3302908,Miguel Pereira
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330012,Santo Antônio de Pádua,01,Noroeste Fluminense,002,Santo Antônio de Pádua,03005,3303005,Miracema
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330011,Itaperuna,01,Noroeste Fluminense,001,Itaperuna,03104,3303104,Natividade
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,03203,3303203,Nilópolis
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,03302,3303302,Niterói
+33,Rio de Janeiro,3303,Petrópolis,330008,Nova Friburgo,03,Centro Fluminense,007,Nova Friburgo,03401,3303401,Nova Friburgo
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,03500,3303500,Nova Iguaçu
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,014,Vassouras,03609,3303609,Paracambi
+33,Rio de Janeiro,3303,Petrópolis,330009,Três Rios - Paraíba do Sul,03,Centro Fluminense,005,Três Rios,03708,3303708,Paraíba do Sul
+33,Rio de Janeiro,3301,Rio de Janeiro,330002,Angra dos Reis,05,Sul Fluminense,013,Baía da Ilha Grande,03807,3303807,Paraty
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330006,Valença,06,Metropolitana do Rio de Janeiro,014,Vassouras,03856,3303856,Paty do Alferes
+33,Rio de Janeiro,3303,Petrópolis,330007,Petrópolis,06,Metropolitana do Rio de Janeiro,015,Serrana,03906,3303906,Petrópolis
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330004,Volta Redonda - Barra Mansa,05,Sul Fluminense,011,Vale do Paraíba Fluminense,03955,3303955,Pinheiral
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330004,Volta Redonda - Barra Mansa,05,Sul Fluminense,011,Vale do Paraíba Fluminense,04003,3304003,Piraí
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330011,Itaperuna,01,Noroeste Fluminense,001,Itaperuna,04102,3304102,Porciúncula
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330005,Resende,05,Sul Fluminense,011,Vale do Paraíba Fluminense,04110,3304110,Porto Real
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330005,Resende,05,Sul Fluminense,011,Vale do Paraíba Fluminense,04128,3304128,Quatis
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,04144,3304144,Queimados
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330014,Macaé - Rio das Ostras,02,Norte Fluminense,004,Macaé,04151,3304151,Quissamã
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330005,Resende,05,Sul Fluminense,011,Vale do Paraíba Fluminense,04201,3304201,Resende
+33,Rio de Janeiro,3301,Rio de Janeiro,330003,Rio Bonito,06,Metropolitana do Rio de Janeiro,016,Macacu-Caceribu,04300,3304300,Rio Bonito
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330004,Volta Redonda - Barra Mansa,05,Sul Fluminense,011,Vale do Paraíba Fluminense,04409,3304409,Rio Claro
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330006,Valença,05,Sul Fluminense,012,Barra do Piraí,04508,3304508,Rio das Flores
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330014,Macaé - Rio das Ostras,04,Baixadas,009,Bacia de São João,04524,3304524,Rio das Ostras
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,04557,3304557,Rio de Janeiro
+33,Rio de Janeiro,3303,Petrópolis,330008,Nova Friburgo,03,Centro Fluminense,008,Santa Maria Madalena,04607,3304607,Santa Maria Madalena
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330012,Santo Antônio de Pádua,01,Noroeste Fluminense,002,Santo Antônio de Pádua,04706,3304706,Santo Antônio de Pádua
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330010,Campos dos Goytacazes,02,Norte Fluminense,003,Campos dos Goytacazes,04805,3304805,São Fidélis
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330010,Campos dos Goytacazes,02,Norte Fluminense,003,Campos dos Goytacazes,04755,3304755,São Francisco de Itabapoana
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,04904,3304904,São Gonçalo
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330010,Campos dos Goytacazes,02,Norte Fluminense,003,Campos dos Goytacazes,05000,3305000,São João da Barra
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,05109,3305109,São João de Meriti
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330011,Itaperuna,01,Noroeste Fluminense,002,Santo Antônio de Pádua,05133,3305133,São José de Ubá
+33,Rio de Janeiro,3303,Petrópolis,330007,Petrópolis,06,Metropolitana do Rio de Janeiro,015,Serrana,05158,3305158,São José do Vale do Rio Preto
+33,Rio de Janeiro,3305,Macaé - Rio das Ostras - Cabo Frio,330013,Cabo Frio,04,Baixadas,010,Lagos,05208,3305208,São Pedro da Aldeia
+33,Rio de Janeiro,3303,Petrópolis,330008,Nova Friburgo,03,Centro Fluminense,008,Santa Maria Madalena,05307,3305307,São Sebastião do Alto
+33,Rio de Janeiro,3303,Petrópolis,330009,Três Rios - Paraíba do Sul,03,Centro Fluminense,005,Três Rios,05406,3305406,Sapucaia
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,04,Baixadas,010,Lagos,05505,3305505,Saquarema
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,017,Itaguaí,05554,3305554,Seropédica
+33,Rio de Janeiro,3301,Rio de Janeiro,330003,Rio Bonito,04,Baixadas,009,Bacia de São João,05604,3305604,Silva Jardim
+33,Rio de Janeiro,3303,Petrópolis,330008,Nova Friburgo,03,Centro Fluminense,007,Nova Friburgo,05703,3305703,Sumidouro
+33,Rio de Janeiro,3301,Rio de Janeiro,330001,Rio de Janeiro,06,Metropolitana do Rio de Janeiro,018,Rio de Janeiro,05752,3305752,Tanguá
+33,Rio de Janeiro,3303,Petrópolis,330007,Petrópolis,06,Metropolitana do Rio de Janeiro,015,Serrana,05802,3305802,Teresópolis
+33,Rio de Janeiro,3303,Petrópolis,330008,Nova Friburgo,03,Centro Fluminense,008,Santa Maria Madalena,05901,3305901,Trajano de Moraes
+33,Rio de Janeiro,3303,Petrópolis,330009,Três Rios - Paraíba do Sul,03,Centro Fluminense,005,Três Rios,06008,3306008,Três Rios
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330006,Valença,05,Sul Fluminense,012,Barra do Piraí,06107,3306107,Valença
+33,Rio de Janeiro,3304,Campos dos Goytacazes,330011,Itaperuna,01,Noroeste Fluminense,001,Itaperuna,06156,3306156,Varre-Sai
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330006,Valença,06,Metropolitana do Rio de Janeiro,014,Vassouras,06206,3306206,Vassouras
+33,Rio de Janeiro,3302,Volta Redonda - Barra Mansa,330004,Volta Redonda - Barra Mansa,05,Sul Fluminense,011,Vale do Paraíba Fluminense,06305,3306305,Volta Redonda
